@@ -2,7 +2,11 @@ Updated by Tyler Yox on 1/27/2018
 
 Navigate to the TopographyReader directory.
 
+
+
 To compile: javac -cp .\lib\*;.\bin -d .\bin -s .\src .\src\TopographyReader.java
+
+***IF YOU HAVE ISSUES COMPILING, DELETE ALL FILES/LIBRARIES PRECEDED WITH '._'***
 
 To run: javaw -cp .\bin\;.\lib\* TopographyReader [filename] [path algorithm] [layout]
 
