@@ -1,3 +1,20 @@
-To compile: javac -cp .\lib;.\bin -extdirs .\lib -d .\bin -s .\src .\src\TopographyReader\TopographyReader.java 
+Updated by Tyler Yox on 1/27/2018
 
-To run: javaw -cp .\bin\;.\lib\ .\bin\TopographyReader\TopographyReader
+Navigate to the TopographyReader directory.
+
+To compile: javac -cp .\lib\*;.\bin -d .\bin -s .\src .\src\TopographyReader.java
+
+To run: javaw -cp .\bin\;.\lib\* TopographyReader [filename] [path algorithm] [layout]
+
+  filename: file of type '.graphml'. Can be found in the files directory.
+
+  path algorithm: Switch for handling shortest path algorithm.
+    -alg:0 - Dijkstra shortest path algorithm
+    -alg:1 - Bellman-Ford shortest path algorithm
+
+  layout: Switch for handling visualization of the network graph.
+    -layout:0 - Hierarchical layout
+    -layout:1 - Circle layout
+
+
+    EXAMPLE: javaw -cp .\bin\;.\lib\* TopographyReader .\files\Internet2.graphml alg:0 layout:1
