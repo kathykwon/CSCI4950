@@ -1,0 +1,1528 @@
+*** Adding Controller ***
+*** Adding Switches ***
+*** Adding Hosts ***
+
+*** INTERNET2 ***
+*** Albany *** 0
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+
+        Jackson	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.048 ms     rtt min/avg/max/mdev = 57.026/58.827/61.673/1.475 ms
+
+      Starlight	Time: 3.3 seconds	Length: 25.5 MBytes	Throughput: 65.1 Mbits/sec	Jitter: 0.303 ms     rtt min/avg/max/mdev = 41.474/43.576/46.894/1.900 ms
+
+        Chicago	Time: 3.2 seconds	Length: 26.8 MBytes	Throughput: 71.1 Mbits/sec	Jitter: 0.244 ms     rtt min/avg/max/mdev = 36.787/38.992/41.292/1.374 ms
+
+        NewYork	Time: 3.2 seconds	Length: 25.4 MBytes	Throughput: 66.1 Mbits/sec	Jitter: 0.279 ms     rtt min/avg/max/mdev = 29.245/30.810/34.834/1.634 ms
+
+     Louisville	Time: 4.4 seconds	Length: 5.02 MBytes	Throughput: 9.49 Mbits/sec	Jitter: 1.193 ms     rtt min/avg/max/mdev = 63.572/68.705/71.551/2.255 ms
+
+           Jxnv	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.964 ms     rtt min/avg/max/mdev = 65.222/68.060/69.733/1.230 ms
+
+     Pittsburgh	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.083 ms     rtt min/avg/max/mdev = 84.597/86.518/88.349/1.170 ms
+
+         Dallas	Time: 3.2 seconds	Length: 26.3 MBytes	Throughput: 68.9 Mbits/sec	Jitter: 0.320 ms     rtt min/avg/max/mdev = 54.143/57.773/66.646/3.522 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 1.166 ms     rtt min/avg/max/mdev = 76.840/78.833/85.220/2.275 ms
+
+       Hartford	Time: 3.3 seconds	Length: 22.9 MBytes	Throughput: 58.9 Mbits/sec	Jitter: 0.207 ms     rtt min/avg/max/mdev = 29.091/30.461/31.592/0.802 ms
+
+       LasVegas	Time: 3.2 seconds	Length: 8.12 MBytes	Throughput: 21.0 Mbits/sec	Jitter: 0.163 ms     rtt min/avg/max/mdev = 50.096/53.583/61.836/3.048 ms
+
+        Memphis	Time: 4.3 seconds	Length: 4.94 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.909 ms     rtt min/avg/max/mdev = 64.031/66.690/69.804/1.775 ms
+
+          Phili	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.179 ms     rtt min/avg/max/mdev = 83.972/86.529/89.355/1.519 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.04 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 0.981 ms     rtt min/avg/max/mdev = 79.791/82.708/85.318/1.587 ms
+
+     LosAngeles	Time: 3.3 seconds	Length: 17.8 MBytes	Throughput: 45.8 Mbits/sec	Jitter: 0.239 ms     rtt min/avg/max/mdev = 61.709/65.693/70.843/2.883 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.64 Mbits/sec	Jitter: 0.903 ms     rtt min/avg/max/mdev = 65.070/68.096/69.764/1.414 ms
+
+           KanC	Time: 3.2 seconds	Length: 26.8 MBytes	Throughput: 70.4 Mbits/sec	Jitter: 0.285 ms     rtt min/avg/max/mdev = 41.303/44.394/48.784/1.910 ms
+
+        Detroit	Time: 3.2 seconds	Length: 25.7 MBytes	Throughput: 67.5 Mbits/sec	Jitter: 0.565 ms     rtt min/avg/max/mdev = 32.752/34.892/37.508/1.438 ms
+
+       Missoula	Time: 3.3 seconds	Length: 8.70 MBytes	Throughput: 22.4 Mbits/sec	Jitter: 0.210 ms     rtt min/avg/max/mdev = 54.037/59.046/69.464/4.271 ms
+
+            Ind	Time: 3.3 seconds	Length: 24.0 MBytes	Throughput: 61.5 Mbits/sec	Jitter: 0.431 ms     rtt min/avg/max/mdev = 41.622/44.015/47.024/1.661 ms
+
+         Tucson	Time: 3.2 seconds	Length: 18.5 MBytes	Throughput: 47.9 Mbits/sec	Jitter: 0.276 ms     rtt min/avg/max/mdev = 54.757/57.525/61.757/1.952 ms
+
+        Phoenix	Time: 3.3 seconds	Length: 16.0 MBytes	Throughput: 40.9 Mbits/sec	Jitter: 0.278 ms     rtt min/avg/max/mdev = 67.192/71.581/80.377/3.819 ms
+
+        Raleigh	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.222 ms     rtt min/avg/max/mdev = 70.759/73.214/74.972/1.379 ms
+
+        Buffalo	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 72.3 Mbits/sec	Jitter: 0.309 ms     rtt min/avg/max/mdev = 24.751/26.216/29.560/1.425 ms
+
+        Atlanta	Time: 4.4 seconds	Length: 5.11 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.220 ms     rtt min/avg/max/mdev = 61.206/62.928/64.668/0.976 ms
+
+            SLC	Time: 3.2 seconds	Length: 26.2 MBytes	Throughput: 69.4 Mbits/sec	Jitter: 0.755 ms     rtt min/avg/max/mdev = 45.679/48.962/58.005/3.429 ms
+
+        Houston	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 72.2 Mbits/sec	Jitter: 0.320 ms     rtt min/avg/max/mdev = 50.525/53.699/59.324/2.521 ms
+
+     Cincinnati	Time: 4.3 seconds	Length: 5.03 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.079 ms     rtt min/avg/max/mdev = 69.972/72.388/74.479/1.158 ms
+
+          Tulsa	Time: 3.3 seconds	Length: 21.0 MBytes	Throughput: 53.6 Mbits/sec	Jitter: 0.365 ms     rtt min/avg/max/mdev = 59.050/62.209/67.476/2.316 ms
+
+        SanFran	Time: 3.3 seconds	Length: 19.7 MBytes	Throughput: 49.8 Mbits/sec	Jitter: 0.258 ms     rtt min/avg/max/mdev = 59.336/61.580/64.175/1.829 ms
+
+         Boston	Time: 3.2 seconds	Length: 25.8 MBytes	Throughput: 67.8 Mbits/sec	Jitter: 0.271 ms     rtt min/avg/max/mdev = 24.622/26.156/27.577/0.992 ms
+
+           Reno	Time: 3.3 seconds	Length: 6.94 MBytes	Throughput: 17.7 Mbits/sec	Jitter: 0.184 ms     rtt min/avg/max/mdev = 64.441/68.082/76.986/3.598 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 24.6 MBytes	Throughput: 62.6 Mbits/sec	Jitter: 0.339 ms     rtt min/avg/max/mdev = 59.344/62.910/70.214/3.036 ms
+
+      Cleveland	Time: 3.2 seconds	Length: 26.4 MBytes	Throughput: 69.7 Mbits/sec	Jitter: 0.247 ms     rtt min/avg/max/mdev = 28.529/31.196/33.751/1.502 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 0.883 ms     rtt min/avg/max/mdev = 70.464/72.171/74.603/1.199 ms
+
+       Portland	Time: 3.2 seconds	Length: 21.7 MBytes	Throughput: 56.2 Mbits/sec	Jitter: 0.184 ms     rtt min/avg/max/mdev = 55.148/58.493/66.769/3.163 ms
+
+        Seattle	Time: 3.2 seconds	Length: 27.7 MBytes	Throughput: 73.4 Mbits/sec	Jitter: 0.252 ms     rtt min/avg/max/mdev = 49.999/53.299/57.134/2.247 ms
+Average Throughput: 40.4918918919 Mbits/sec
+Average Jitter: 0.570648648649 ms
+Average RTT: 57.5851351351 ms
+
+
+*** Jackson *** 1
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.4 seconds	Length: 5.14 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.813 ms     rtt min/avg/max/mdev = 56.864/58.094/59.031/0.842 ms
+
+
+      Starlight	Time: 4.3 seconds	Length: 4.99 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.037 ms     rtt min/avg/max/mdev = 42.399/44.425/46.483/1.358 ms
+
+        Chicago	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.851 ms     rtt min/avg/max/mdev = 37.499/39.622/41.025/1.049 ms
+
+        NewYork	Time: 4.6 seconds	Length: 5.27 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.249 ms     rtt min/avg/max/mdev = 67.120/68.196/69.513/0.729 ms
+
+     Louisville	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.593 ms     rtt min/avg/max/mdev = 29.612/30.300/31.482/0.510 ms
+
+           Jxnv	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.400 ms     rtt min/avg/max/mdev = 29.749/31.114/32.490/0.768 ms
+
+     Pittsburgh	Time: 4.4 seconds	Length: 5.14 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 0.987 ms     rtt min/avg/max/mdev = 47.112/49.512/51.788/1.372 ms
+
+         Dallas	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.65 Mbits/sec	Jitter: 0.726 ms     rtt min/avg/max/mdev = 29.574/30.914/32.807/0.877 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 4.89 MBytes	Throughput: 9.29 Mbits/sec	Jitter: 1.048 ms     rtt min/avg/max/mdev = 38.112/39.555/40.880/0.900 ms
+
+       Hartford	Time: 4.4 seconds	Length: 4.78 MBytes	Throughput: 9.03 Mbits/sec	Jitter: 1.756 ms     rtt min/avg/max/mdev = 66.972/68.743/69.803/0.897 ms
+
+       LasVegas	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.855 ms     rtt min/avg/max/mdev = 34.592/35.599/36.172/0.601 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.561 ms     rtt min/avg/max/mdev = 29.113/30.568/32.489/1.103 ms
+
+          Phili	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.892 ms     rtt min/avg/max/mdev = 47.424/49.239/50.826/1.133 ms
+
+         McLean	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.664 ms     rtt min/avg/max/mdev = 42.026/43.756/45.285/1.244 ms
+
+     LosAngeles	Time: 4.5 seconds	Length: 4.87 MBytes	Throughput: 8.99 Mbits/sec	Jitter: 2.845 ms     rtt min/avg/max/mdev = 48.438/49.357/51.037/0.831 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.59 Mbits/sec	Jitter: 0.904 ms     rtt min/avg/max/mdev = 29.519/30.865/32.004/0.737 ms
+
+           KanC	Time: 4.4 seconds	Length: 4.96 MBytes	Throughput: 9.40 Mbits/sec	Jitter: 1.619 ms     rtt min/avg/max/mdev = 33.716/35.387/36.518/0.934 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.707 ms     rtt min/avg/max/mdev = 41.983/44.204/45.511/0.958 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.636 ms     rtt min/avg/max/mdev = 37.457/39.858/41.192/1.001 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.572 ms     rtt min/avg/max/mdev = 43.127/44.642/46.269/1.003 ms
+
+         Tucson	Time: 4.5 seconds	Length: 5.22 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.437 ms     rtt min/avg/max/mdev = 29.534/31.058/32.254/0.725 ms
+
+        Phoenix	Time: 4.5 seconds	Length: 5.24 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.032 ms     rtt min/avg/max/mdev = 52.306/54.779/56.786/1.222 ms
+
+        Raleigh	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 0.554 ms     rtt min/avg/max/mdev = 33.421/35.145/36.584/1.053 ms
+
+        Buffalo	Time: 4.5 seconds	Length: 4.87 MBytes	Throughput: 9.12 Mbits/sec	Jitter: 1.156 ms     rtt min/avg/max/mdev = 51.431/53.766/56.689/1.652 ms
+
+        Atlanta	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.932 ms     rtt min/avg/max/mdev = 25.141/26.445/27.502/0.735 ms
+
+            SLC	Time: 4.4 seconds	Length: 4.95 MBytes	Throughput: 9.47 Mbits/sec	Jitter: 0.974 ms     rtt min/avg/max/mdev = 29.514/30.645/32.018/0.779 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.07 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.481 ms     rtt min/avg/max/mdev = 25.433/26.220/27.185/0.539 ms
+
+     Cincinnati	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.595 ms     rtt min/avg/max/mdev = 34.137/35.136/36.526/0.683 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.93 MBytes	Throughput: 9.23 Mbits/sec	Jitter: 1.941 ms     rtt min/avg/max/mdev = 33.527/34.941/37.859/1.269 ms
+
+        SanFran	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.261 ms     rtt min/avg/max/mdev = 42.584/44.103/45.773/0.830 ms
+
+         Boston	Time: 4.6 seconds	Length: 5.28 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 3.902 ms     rtt min/avg/max/mdev = 60.058/63.252/64.773/1.508 ms
+
+           Reno	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.833 ms     rtt min/avg/max/mdev = 47.423/49.536/51.127/0.947 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.886 ms     rtt min/avg/max/mdev = 42.642/44.670/49.580/1.928 ms
+
+      Cleveland	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.251 ms     rtt min/avg/max/mdev = 48.400/49.413/50.090/0.626 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.526 ms     rtt min/avg/max/mdev = 34.071/35.628/37.153/1.035 ms
+
+       Portland	Time: 4.5 seconds	Length: 4.66 MBytes	Throughput: 8.70 Mbits/sec	Jitter: 2.285 ms     rtt min/avg/max/mdev = 38.523/39.888/41.230/0.796 ms
+
+        Seattle	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.324 ms     rtt min/avg/max/mdev = 35.087/36.889/38.631/0.954 ms
+Average Throughput: 9.59108108108 Mbits/sec
+Average Jitter: 1.16445945946 ms
+Average RTT: 42.0345945946 ms
+
+
+*** Starlight *** 2
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.3 seconds	Length: 7.32 MBytes	Throughput: 18.3 Mbits/sec	Jitter: 0.590 ms     rtt min/avg/max/mdev = 44.547/48.145/54.693/3.288 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.555 ms     rtt min/avg/max/mdev = 43.579/46.820/49.085/1.809 ms
+
+
+        Chicago	Time: 3.3 seconds	Length: 22.2 MBytes	Throughput: 56.9 Mbits/sec	Jitter: 0.154 ms     rtt min/avg/max/mdev = 26.770/28.556/31.523/1.854 ms
+
+        NewYork	Time: 3.3 seconds	Length: 6.76 MBytes	Throughput: 16.9 Mbits/sec	Jitter: 0.266 ms     rtt min/avg/max/mdev = 53.549/57.706/72.385/5.186 ms
+
+     Louisville	Time: 4.5 seconds	Length: 4.76 MBytes	Throughput: 8.81 Mbits/sec	Jitter: 2.433 ms     rtt min/avg/max/mdev = 54.859/56.858/58.394/1.273 ms
+
+           Jxnv	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.454 ms     rtt min/avg/max/mdev = 54.204/56.297/59.493/1.603 ms
+
+     Pittsburgh	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.560 ms     rtt min/avg/max/mdev = 72.571/75.989/78.452/1.707 ms
+
+         Dallas	Time: 3.3 seconds	Length: 19.2 MBytes	Throughput: 48.5 Mbits/sec	Jitter: 0.915 ms     rtt min/avg/max/mdev = 45.479/48.069/51.918/1.990 ms
+
+        Ashburn	Time: 4.5 seconds	Length: 4.61 MBytes	Throughput: 8.53 Mbits/sec	Jitter: 1.952 ms     rtt min/avg/max/mdev = 63.908/66.063/68.684/1.540 ms
+
+       Hartford	Time: 3.4 seconds	Length: 7.01 MBytes	Throughput: 17.5 Mbits/sec	Jitter: 0.535 ms     rtt min/avg/max/mdev = 55.445/58.072/63.841/2.629 ms
+
+       LasVegas	Time: 3.4 seconds	Length: 15.5 MBytes	Throughput: 38.7 Mbits/sec	Jitter: 0.700 ms     rtt min/avg/max/mdev = 39.880/42.230/44.207/1.356 ms
+
+        Memphis	Time: 4.5 seconds	Length: 5.13 MBytes	Throughput: 9.59 Mbits/sec	Jitter: 1.939 ms     rtt min/avg/max/mdev = 55.135/57.092/59.308/1.517 ms
+
+          Phili	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.044 ms     rtt min/avg/max/mdev = 74.308/76.354/78.920/1.653 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.622 ms     rtt min/avg/max/mdev = 68.200/71.994/79.455/2.746 ms
+
+     LosAngeles	Time: 3.4 seconds	Length: 7.68 MBytes	Throughput: 19.1 Mbits/sec	Jitter: 0.385 ms     rtt min/avg/max/mdev = 53.004/57.091/66.334/3.420 ms
+
+      Charlotte	Time: 4.5 seconds	Length: 5.05 MBytes	Throughput: 9.48 Mbits/sec	Jitter: 2.165 ms     rtt min/avg/max/mdev = 55.419/57.136/60.543/1.552 ms
+
+           KanC	Time: 3.2 seconds	Length: 22.2 MBytes	Throughput: 58.0 Mbits/sec	Jitter: 0.436 ms     rtt min/avg/max/mdev = 29.441/32.555/36.930/2.190 ms
+
+        Detroit	Time: 3.3 seconds	Length: 22.5 MBytes	Throughput: 57.5 Mbits/sec	Jitter: 0.726 ms     rtt min/avg/max/mdev = 30.373/32.522/35.400/1.624 ms
+
+       Missoula	Time: 3.4 seconds	Length: 8.85 MBytes	Throughput: 22.0 Mbits/sec	Jitter: 0.784 ms     rtt min/avg/max/mdev = 44.042/48.470/56.417/3.384 ms
+
+            Ind	Time: 3.3 seconds	Length: 19.9 MBytes	Throughput: 50.4 Mbits/sec	Jitter: 0.595 ms     rtt min/avg/max/mdev = 30.473/33.210/39.721/2.786 ms
+
+         Tucson	Time: 3.3 seconds	Length: 15.2 MBytes	Throughput: 38.6 Mbits/sec	Jitter: 0.498 ms     rtt min/avg/max/mdev = 44.607/48.002/57.686/3.643 ms
+
+        Phoenix	Time: 3.3 seconds	Length: 8.87 MBytes	Throughput: 22.2 Mbits/sec	Jitter: 0.660 ms     rtt min/avg/max/mdev = 59.099/63.955/74.150/5.033 ms
+
+        Raleigh	Time: 4.5 seconds	Length: 4.55 MBytes	Throughput: 8.43 Mbits/sec	Jitter: 2.472 ms     rtt min/avg/max/mdev = 58.820/60.682/62.631/1.502 ms
+
+        Buffalo	Time: 3.3 seconds	Length: 16.2 MBytes	Throughput: 41.1 Mbits/sec	Jitter: 0.277 ms     rtt min/avg/max/mdev = 38.575/41.884/45.699/2.276 ms
+
+        Atlanta	Time: 4.4 seconds	Length: 5.14 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.391 ms     rtt min/avg/max/mdev = 49.014/51.589/53.636/1.181 ms
+
+            SLC	Time: 3.2 seconds	Length: 22.6 MBytes	Throughput: 58.8 Mbits/sec	Jitter: 0.412 ms     rtt min/avg/max/mdev = 35.163/37.322/39.118/1.185 ms
+
+        Houston	Time: 3.3 seconds	Length: 17.9 MBytes	Throughput: 45.1 Mbits/sec	Jitter: 0.322 ms     rtt min/avg/max/mdev = 39.482/43.862/52.009/4.713 ms
+
+     Cincinnati	Time: 4.5 seconds	Length: 4.76 MBytes	Throughput: 8.84 Mbits/sec	Jitter: 4.215 ms     rtt min/avg/max/mdev = 59.055/61.178/64.506/1.657 ms
+
+          Tulsa	Time: 3.3 seconds	Length: 15.9 MBytes	Throughput: 40.1 Mbits/sec	Jitter: 0.691 ms     rtt min/avg/max/mdev = 48.322/51.894/55.048/1.701 ms
+
+        SanFran	Time: 3.3 seconds	Length: 23.0 MBytes	Throughput: 59.0 Mbits/sec	Jitter: 0.408 ms     rtt min/avg/max/mdev = 49.256/52.005/54.770/1.684 ms
+
+         Boston	Time: 3.4 seconds	Length: 8.29 MBytes	Throughput: 20.6 Mbits/sec	Jitter: 0.524 ms     rtt min/avg/max/mdev = 47.814/52.583/58.466/3.535 ms
+
+           Reno	Time: 3.3 seconds	Length: 6.72 MBytes	Throughput: 16.8 Mbits/sec	Jitter: 0.858 ms     rtt min/avg/max/mdev = 52.719/61.592/98.361/12.578 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 15.9 MBytes	Throughput: 40.4 Mbits/sec	Jitter: 0.695 ms     rtt min/avg/max/mdev = 48.509/51.605/53.748/1.701 ms
+
+      Cleveland	Time: 3.3 seconds	Length: 15.5 MBytes	Throughput: 39.3 Mbits/sec	Jitter: 0.509 ms     rtt min/avg/max/mdev = 35.064/38.036/44.560/2.712 ms
+
+         BtnRge	Time: 4.5 seconds	Length: 5.14 MBytes	Throughput: 9.67 Mbits/sec	Jitter: 1.768 ms     rtt min/avg/max/mdev = 59.480/61.912/64.446/1.514 ms
+
+       Portland	Time: 3.3 seconds	Length: 23.3 MBytes	Throughput: 59.6 Mbits/sec	Jitter: 1.285 ms     rtt min/avg/max/mdev = 45.657/49.106/57.788/3.352 ms
+
+        Seattle	Time: 3.3 seconds	Length: 22.4 MBytes	Throughput: 57.1 Mbits/sec	Jitter: 0.316 ms     rtt min/avg/max/mdev = 39.764/42.570/46.417/1.920 ms
+Average Throughput: 28.7586486486 Mbits/sec
+Average Jitter: 1.11110810811 ms
+Average RTT: 51.9151351351 ms
+
+
+*** Chicago *** 3
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.3 seconds	Length: 19.2 MBytes	Throughput: 48.7 Mbits/sec	Jitter: 0.309 ms     rtt min/avg/max/mdev = 39.514/45.438/73.112/9.427 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.897 ms     rtt min/avg/max/mdev = 39.847/41.982/43.974/1.378 ms
+
+      Starlight	Time: 3.3 seconds	Length: 20.7 MBytes	Throughput: 52.5 Mbits/sec	Jitter: 0.466 ms     rtt min/avg/max/mdev = 24.985/27.086/30.201/1.354 ms
+
+
+        NewYork	Time: 3.4 seconds	Length: 11.6 MBytes	Throughput: 29.0 Mbits/sec	Jitter: 0.582 ms     rtt min/avg/max/mdev = 49.270/55.200/68.526/6.378 ms
+
+     Louisville	Time: 4.5 seconds	Length: 4.68 MBytes	Throughput: 8.69 Mbits/sec	Jitter: 4.046 ms     rtt min/avg/max/mdev = 49.077/51.928/54.197/1.758 ms
+
+           Jxnv	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.747 ms     rtt min/avg/max/mdev = 49.302/51.997/54.802/1.683 ms
+
+     Pittsburgh	Time: 4.6 seconds	Length: 5.29 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.985 ms     rtt min/avg/max/mdev = 66.849/70.848/74.656/2.328 ms
+
+         Dallas	Time: 3.3 seconds	Length: 22.8 MBytes	Throughput: 58.6 Mbits/sec	Jitter: 0.386 ms     rtt min/avg/max/mdev = 39.763/42.783/47.644/2.583 ms
+
+        Ashburn	Time: 4.6 seconds	Length: 4.38 MBytes	Throughput: 8.07 Mbits/sec	Jitter: 2.142 ms     rtt min/avg/max/mdev = 57.377/61.728/64.597/2.011 ms
+
+       Hartford	Time: 3.3 seconds	Length: 13.1 MBytes	Throughput: 33.1 Mbits/sec	Jitter: 0.605 ms     rtt min/avg/max/mdev = 48.787/51.934/60.340/3.164 ms
+
+       LasVegas	Time: 3.4 seconds	Length: 12.1 MBytes	Throughput: 30.2 Mbits/sec	Jitter: 0.419 ms     rtt min/avg/max/mdev = 35.004/37.108/44.617/2.865 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.998 ms     rtt min/avg/max/mdev = 49.621/51.522/53.378/1.199 ms
+
+          Phili	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.031 ms     rtt min/avg/max/mdev = 68.581/71.603/74.669/2.228 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 1.603 ms     rtt min/avg/max/mdev = 62.826/65.508/67.795/1.365 ms
+
+     LosAngeles	Time: 3.3 seconds	Length: 10.9 MBytes	Throughput: 27.5 Mbits/sec	Jitter: 0.427 ms     rtt min/avg/max/mdev = 50.319/55.073/72.726/6.216 ms
+
+      Charlotte	Time: 4.5 seconds	Length: 5.07 MBytes	Throughput: 9.39 Mbits/sec	Jitter: 1.961 ms     rtt min/avg/max/mdev = 49.851/52.266/54.283/1.230 ms
+
+           KanC	Time: 3.3 seconds	Length: 22.4 MBytes	Throughput: 57.2 Mbits/sec	Jitter: 1.423 ms     rtt min/avg/max/mdev = 26.040/28.241/35.745/2.728 ms
+
+        Detroit	Time: 3.2 seconds	Length: 21.7 MBytes	Throughput: 56.7 Mbits/sec	Jitter: 0.603 ms     rtt min/avg/max/mdev = 25.771/27.874/34.402/2.343 ms
+
+       Missoula	Time: 3.3 seconds	Length: 8.96 MBytes	Throughput: 22.6 Mbits/sec	Jitter: 0.618 ms     rtt min/avg/max/mdev = 40.823/42.931/47.942/2.092 ms
+
+            Ind	Time: 3.2 seconds	Length: 22.6 MBytes	Throughput: 59.2 Mbits/sec	Jitter: 0.926 ms     rtt min/avg/max/mdev = 25.842/27.142/28.987/0.974 ms
+
+         Tucson	Time: 3.4 seconds	Length: 9.78 MBytes	Throughput: 24.4 Mbits/sec	Jitter: 0.452 ms     rtt min/avg/max/mdev = 40.249/45.354/65.813/7.158 ms
+
+        Phoenix	Time: 3.4 seconds	Length: 9.32 MBytes	Throughput: 23.2 Mbits/sec	Jitter: 0.244 ms     rtt min/avg/max/mdev = 54.640/57.766/63.511/2.698 ms
+
+        Raleigh	Time: 4.5 seconds	Length: 5.01 MBytes	Throughput: 9.33 Mbits/sec	Jitter: 1.815 ms     rtt min/avg/max/mdev = 54.864/56.934/58.624/1.233 ms
+
+        Buffalo	Time: 3.3 seconds	Length: 9.76 MBytes	Throughput: 24.5 Mbits/sec	Jitter: 0.441 ms     rtt min/avg/max/mdev = 34.548/39.545/47.896/4.742 ms
+
+        Atlanta	Time: 4.5 seconds	Length: 5.14 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 1.460 ms     rtt min/avg/max/mdev = 43.571/45.618/47.463/1.121 ms
+
+            SLC	Time: 3.2 seconds	Length: 21.7 MBytes	Throughput: 56.1 Mbits/sec	Jitter: 0.509 ms     rtt min/avg/max/mdev = 30.483/32.644/36.679/1.853 ms
+
+        Houston	Time: 3.3 seconds	Length: 17.7 MBytes	Throughput: 44.9 Mbits/sec	Jitter: 0.224 ms     rtt min/avg/max/mdev = 34.774/38.339/45.616/3.011 ms
+
+     Cincinnati	Time: 4.5 seconds	Length: 4.69 MBytes	Throughput: 8.74 Mbits/sec	Jitter: 1.822 ms     rtt min/avg/max/mdev = 54.998/57.432/59.666/1.602 ms
+
+          Tulsa	Time: 3.2 seconds	Length: 22.4 MBytes	Throughput: 58.5 Mbits/sec	Jitter: 0.637 ms     rtt min/avg/max/mdev = 44.222/47.321/50.473/1.693 ms
+
+        SanFran	Time: 3.4 seconds	Length: 15.1 MBytes	Throughput: 37.6 Mbits/sec	Jitter: 0.566 ms     rtt min/avg/max/mdev = 43.802/48.953/63.402/5.454 ms
+
+         Boston	Time: 3.4 seconds	Length: 8.71 MBytes	Throughput: 21.8 Mbits/sec	Jitter: 0.335 ms     rtt min/avg/max/mdev = 44.303/49.057/67.876/6.461 ms
+
+           Reno	Time: 3.4 seconds	Length: 6.45 MBytes	Throughput: 16.0 Mbits/sec	Jitter: 0.520 ms     rtt min/avg/max/mdev = 49.648/52.942/60.148/2.754 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 22.4 MBytes	Throughput: 57.5 Mbits/sec	Jitter: 0.344 ms     rtt min/avg/max/mdev = 41.838/44.674/46.563/1.578 ms
+
+      Cleveland	Time: 3.2 seconds	Length: 23.2 MBytes	Throughput: 60.1 Mbits/sec	Jitter: 0.225 ms     rtt min/avg/max/mdev = 28.593/30.475/32.452/1.326 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 5.07 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 0.818 ms     rtt min/avg/max/mdev = 50.592/53.386/55.885/1.589 ms
+
+       Portland	Time: 3.2 seconds	Length: 20.6 MBytes	Throughput: 53.2 Mbits/sec	Jitter: 0.230 ms     rtt min/avg/max/mdev = 37.055/39.588/46.965/2.680 ms
+
+        Seattle	Time: 3.2 seconds	Length: 27.1 MBytes	Throughput: 71.8 Mbits/sec	Jitter: 0.348 ms     rtt min/avg/max/mdev = 33.661/35.409/37.016/1.125 ms
+Average Throughput: 30.9916216216 Mbits/sec
+Average Jitter: 1.00443243243 ms
+Average RTT: 46.9040540541 ms
+
+
+*** NewYork *** 4
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.2 seconds	Length: 24.6 MBytes	Throughput: 63.9 Mbits/sec	Jitter: 0.284 ms     rtt min/avg/max/mdev = 29.002/30.112/31.439/0.912 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.241 ms     rtt min/avg/max/mdev = 66.057/67.696/70.505/1.198 ms
+
+      Starlight	Time: 3.2 seconds	Length: 27.1 MBytes	Throughput: 71.5 Mbits/sec	Jitter: 0.297 ms     rtt min/avg/max/mdev = 49.361/53.060/56.492/2.011 ms
+
+        Chicago	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 72.3 Mbits/sec	Jitter: 0.361 ms     rtt min/avg/max/mdev = 45.880/48.303/54.368/2.617 ms
+
+
+     Louisville	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.524 ms     rtt min/avg/max/mdev = 75.818/77.731/79.283/1.337 ms
+
+           Jxnv	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.888 ms     rtt min/avg/max/mdev = 73.114/77.439/80.356/2.018 ms
+
+     Pittsburgh	Time: 4.4 seconds	Length: 5.14 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.119 ms     rtt min/avg/max/mdev = 89.506/95.780/99.106/2.488 ms
+
+         Dallas	Time: 3.2 seconds	Length: 24.9 MBytes	Throughput: 64.3 Mbits/sec	Jitter: 0.203 ms     rtt min/avg/max/mdev = 61.198/66.108/70.991/3.022 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 5.01 MBytes	Throughput: 9.57 Mbits/sec	Jitter: 1.096 ms     rtt min/avg/max/mdev = 82.067/85.924/88.379/1.666 ms
+
+       Hartford	Time: 3.3 seconds	Length: 25.9 MBytes	Throughput: 66.4 Mbits/sec	Jitter: 0.427 ms     rtt min/avg/max/mdev = 29.213/31.296/38.759/2.660 ms
+
+       LasVegas	Time: 3.2 seconds	Length: 26.4 MBytes	Throughput: 68.7 Mbits/sec	Jitter: 0.297 ms     rtt min/avg/max/mdev = 57.081/62.629/75.512/4.879 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.147 ms     rtt min/avg/max/mdev = 77.165/78.019/80.159/0.898 ms
+
+          Phili	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.196 ms     rtt min/avg/max/mdev = 93.443/95.875/97.374/1.204 ms
+
+         McLean	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.122 ms     rtt min/avg/max/mdev = 89.502/91.492/94.219/1.376 ms
+
+     LosAngeles	Time: 3.3 seconds	Length: 23.5 MBytes	Throughput: 60.7 Mbits/sec	Jitter: 1.325 ms     rtt min/avg/max/mdev = 70.891/75.977/82.174/3.538 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.151 ms     rtt min/avg/max/mdev = 75.415/78.128/80.311/1.472 ms
+
+           KanC	Time: 3.2 seconds	Length: 26.3 MBytes	Throughput: 69.1 Mbits/sec	Jitter: 0.306 ms     rtt min/avg/max/mdev = 50.038/53.476/58.048/2.333 ms
+
+        Detroit	Time: 3.2 seconds	Length: 27.3 MBytes	Throughput: 72.1 Mbits/sec	Jitter: 0.232 ms     rtt min/avg/max/mdev = 41.791/44.294/51.366/2.747 ms
+
+       Missoula	Time: 3.3 seconds	Length: 14.0 MBytes	Throughput: 36.0 Mbits/sec	Jitter: 0.199 ms     rtt min/avg/max/mdev = 61.964/68.443/79.483/5.801 ms
+
+            Ind	Time: 3.2 seconds	Length: 26.4 MBytes	Throughput: 69.0 Mbits/sec	Jitter: 0.293 ms     rtt min/avg/max/mdev = 49.124/53.932/62.780/3.640 ms
+
+         Tucson	Time: 3.3 seconds	Length: 17.3 MBytes	Throughput: 43.8 Mbits/sec	Jitter: 0.167 ms     rtt min/avg/max/mdev = 62.125/65.920/71.332/2.793 ms
+
+        Phoenix	Time: 3.3 seconds	Length: 16.1 MBytes	Throughput: 41.6 Mbits/sec	Jitter: 0.308 ms     rtt min/avg/max/mdev = 76.038/81.649/87.616/3.112 ms
+
+        Raleigh	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.269 ms     rtt min/avg/max/mdev = 78.767/82.471/86.498/2.116 ms
+
+        Buffalo	Time: 3.2 seconds	Length: 26.4 MBytes	Throughput: 69.7 Mbits/sec	Jitter: 0.500 ms     rtt min/avg/max/mdev = 32.824/34.760/36.985/1.254 ms
+
+        Atlanta	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.305 ms     rtt min/avg/max/mdev = 71.001/72.772/74.404/1.222 ms
+
+            SLC	Time: 3.3 seconds	Length: 27.7 MBytes	Throughput: 71.1 Mbits/sec	Jitter: 0.254 ms     rtt min/avg/max/mdev = 53.130/56.950/60.724/2.836 ms
+
+        Houston	Time: 3.3 seconds	Length: 24.9 MBytes	Throughput: 64.1 Mbits/sec	Jitter: 0.259 ms     rtt min/avg/max/mdev = 58.297/62.902/69.928/3.181 ms
+
+     Cincinnati	Time: 4.4 seconds	Length: 5.04 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.423 ms     rtt min/avg/max/mdev = 76.056/80.932/83.756/2.379 ms
+
+          Tulsa	Time: 3.3 seconds	Length: 22.1 MBytes	Throughput: 56.3 Mbits/sec	Jitter: 0.378 ms     rtt min/avg/max/mdev = 66.252/71.063/75.828/3.287 ms
+
+        SanFran	Time: 3.3 seconds	Length: 20.5 MBytes	Throughput: 52.7 Mbits/sec	Jitter: 0.268 ms     rtt min/avg/max/mdev = 66.405/72.360/87.907/5.996 ms
+
+         Boston	Time: 3.2 seconds	Length: 27.2 MBytes	Throughput: 71.5 Mbits/sec	Jitter: 0.313 ms     rtt min/avg/max/mdev = 24.742/26.395/27.894/0.859 ms
+
+           Reno	Time: 3.3 seconds	Length: 5.50 MBytes	Throughput: 14.1 Mbits/sec	Jitter: 0.214 ms     rtt min/avg/max/mdev = 69.915/76.075/89.526/5.062 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 26.3 MBytes	Throughput: 67.6 Mbits/sec	Jitter: 0.238 ms     rtt min/avg/max/mdev = 66.313/72.000/85.409/5.128 ms
+
+      Cleveland	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 72.8 Mbits/sec	Jitter: 0.357 ms     rtt min/avg/max/mdev = 37.128/39.004/44.760/2.128 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 4.54 MBytes	Throughput: 8.61 Mbits/sec	Jitter: 1.670 ms     rtt min/avg/max/mdev = 80.676/82.558/84.609/1.096 ms
+
+       Portland	Time: 3.3 seconds	Length: 23.3 MBytes	Throughput: 59.7 Mbits/sec	Jitter: 0.346 ms     rtt min/avg/max/mdev = 61.955/68.107/76.415/4.129 ms
+
+        Seattle	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 70.7 Mbits/sec	Jitter: 0.302 ms     rtt min/avg/max/mdev = 57.148/62.346/68.396/3.671 ms
+Average Throughput: 43.1024324324 Mbits/sec
+Average Jitter: 0.602135135135 ms
+Average RTT: 66.0494594595 ms
+
+
+*** Louisville *** 5
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.4 seconds	Length: 5.07 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.393 ms     rtt min/avg/max/mdev = 65.659/68.735/72.317/1.920 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.881 ms     rtt min/avg/max/mdev = 29.513/31.128/33.048/1.186 ms
+
+      Starlight	Time: 4.5 seconds	Length: 4.69 MBytes	Throughput: 8.81 Mbits/sec	Jitter: 1.100 ms     rtt min/avg/max/mdev = 52.766/54.006/55.861/1.129 ms
+
+        Chicago	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.988 ms     rtt min/avg/max/mdev = 47.319/49.429/50.912/0.968 ms
+
+        NewYork	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.007 ms     rtt min/avg/max/mdev = 75.801/77.516/79.378/1.116 ms
+
+
+           Jxnv	Time: 3.2 seconds	Length: 30.0 MBytes	Throughput: 79.2 Mbits/sec	Jitter: 0.212 ms     rtt min/avg/max/mdev = 28.885/30.108/32.920/1.084 ms
+
+     Pittsburgh	Time: 3.3 seconds	Length: 18.4 MBytes	Throughput: 47.4 Mbits/sec	Jitter: 0.345 ms     rtt min/avg/max/mdev = 45.357/49.101/54.305/2.534 ms
+
+         Dallas	Time: 4.5 seconds	Length: 5.02 MBytes	Throughput: 9.41 Mbits/sec	Jitter: 1.144 ms     rtt min/avg/max/mdev = 38.608/39.687/41.056/0.794 ms
+
+        Ashburn	Time: 3.2 seconds	Length: 25.9 MBytes	Throughput: 67.7 Mbits/sec	Jitter: 0.171 ms     rtt min/avg/max/mdev = 37.741/39.754/41.551/1.334 ms
+
+       Hartford	Time: 4.5 seconds	Length: 4.37 MBytes	Throughput: 8.17 Mbits/sec	Jitter: 1.141 ms     rtt min/avg/max/mdev = 77.585/78.868/81.262/1.314 ms
+
+       LasVegas	Time: 4.3 seconds	Length: 5.03 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.524 ms     rtt min/avg/max/mdev = 43.523/44.805/46.113/0.832 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.657 ms     rtt min/avg/max/mdev = 29.374/31.046/32.259/0.841 ms
+
+          Phili	Time: 3.3 seconds	Length: 17.7 MBytes	Throughput: 45.5 Mbits/sec	Jitter: 0.206 ms     rtt min/avg/max/mdev = 45.360/48.860/53.950/2.374 ms
+
+         McLean	Time: 3.1 seconds	Length: 30.5 MBytes	Throughput: 81.4 Mbits/sec	Jitter: 0.227 ms     rtt min/avg/max/mdev = 41.635/44.546/56.374/4.067 ms
+
+     LosAngeles	Time: 4.5 seconds	Length: 4.62 MBytes	Throughput: 8.58 Mbits/sec	Jitter: 1.932 ms     rtt min/avg/max/mdev = 55.664/58.564/60.740/1.570 ms
+
+      Charlotte	Time: 3.2 seconds	Length: 28.4 MBytes	Throughput: 75.7 Mbits/sec	Jitter: 0.307 ms     rtt min/avg/max/mdev = 28.617/30.206/32.258/1.096 ms
+
+           KanC	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.011 ms     rtt min/avg/max/mdev = 43.309/44.867/46.913/0.918 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.785 ms     rtt min/avg/max/mdev = 51.464/53.943/54.948/1.049 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.796 ms     rtt min/avg/max/mdev = 47.459/48.857/50.810/1.099 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.088 ms     rtt min/avg/max/mdev = 53.223/54.502/56.788/1.295 ms
+
+         Tucson	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.185 ms     rtt min/avg/max/mdev = 39.371/39.906/41.218/0.541 ms
+
+        Phoenix	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.443 ms     rtt min/avg/max/mdev = 62.651/63.903/65.481/0.822 ms
+
+        Raleigh	Time: 3.1 seconds	Length: 29.7 MBytes	Throughput: 79.2 Mbits/sec	Jitter: 0.225 ms     rtt min/avg/max/mdev = 33.412/35.196/36.534/0.921 ms
+
+        Buffalo	Time: 4.5 seconds	Length: 4.32 MBytes	Throughput: 8.07 Mbits/sec	Jitter: 2.359 ms     rtt min/avg/max/mdev = 60.969/63.110/64.837/1.142 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 29.4 MBytes	Throughput: 78.2 Mbits/sec	Jitter: 0.297 ms     rtt min/avg/max/mdev = 24.918/26.368/28.341/1.283 ms
+
+            SLC	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.675 ms     rtt min/avg/max/mdev = 39.070/40.250/42.028/0.962 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.700 ms     rtt min/avg/max/mdev = 33.758/35.035/37.143/0.972 ms
+
+     Cincinnati	Time: 3.1 seconds	Length: 29.2 MBytes	Throughput: 78.0 Mbits/sec	Jitter: 0.170 ms     rtt min/avg/max/mdev = 24.759/25.903/27.484/0.780 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.86 MBytes	Throughput: 9.04 Mbits/sec	Jitter: 2.029 ms     rtt min/avg/max/mdev = 42.907/44.741/46.901/1.259 ms
+
+        SanFran	Time: 4.4 seconds	Length: 5.14 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.175 ms     rtt min/avg/max/mdev = 52.333/54.157/56.101/1.150 ms
+
+         Boston	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.874 ms     rtt min/avg/max/mdev = 69.171/72.783/76.288/2.304 ms
+
+           Reno	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 0.671 ms     rtt min/avg/max/mdev = 57.092/59.635/61.567/1.534 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.26 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.115 ms     rtt min/avg/max/mdev = 53.893/54.733/56.166/0.761 ms
+
+      Cleveland	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.081 ms     rtt min/avg/max/mdev = 56.449/58.772/60.983/1.273 ms
+
+         BtnRge	Time: 3.2 seconds	Length: 27.2 MBytes	Throughput: 70.3 Mbits/sec	Jitter: 0.201 ms     rtt min/avg/max/mdev = 32.760/35.047/36.324/1.101 ms
+
+       Portland	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.940 ms     rtt min/avg/max/mdev = 48.725/49.368/50.593/0.626 ms
+
+        Seattle	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.745 ms     rtt min/avg/max/mdev = 43.963/44.676/45.198/0.468 ms
+Average Throughput: 25.9132432432 Mbits/sec
+Average Jitter: 0.940540540541 ms
+Average RTT: 48.1602702703 ms
+
+
+*** Jxnv *** 6
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.5 seconds	Length: 5.22 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.786 ms     rtt min/avg/max/mdev = 65.102/68.014/68.913/1.180 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.016 ms     rtt min/avg/max/mdev = 29.714/31.243/33.738/1.270 ms
+
+      Starlight	Time: 4.5 seconds	Length: 4.85 MBytes	Throughput: 9.04 Mbits/sec	Jitter: 1.968 ms     rtt min/avg/max/mdev = 51.340/53.756/55.394/1.338 ms
+
+        Chicago	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.991 ms     rtt min/avg/max/mdev = 48.323/49.683/51.813/1.006 ms
+
+        NewYork	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.785 ms     rtt min/avg/max/mdev = 75.668/77.255/79.048/1.110 ms
+
+     Louisville	Time: 3.2 seconds	Length: 29.0 MBytes	Throughput: 77.1 Mbits/sec	Jitter: 0.231 ms     rtt min/avg/max/mdev = 28.865/30.143/31.631/1.015 ms
+
+
+     Pittsburgh	Time: 3.2 seconds	Length: 20.1 MBytes	Throughput: 52.2 Mbits/sec	Jitter: 0.193 ms     rtt min/avg/max/mdev = 45.974/48.503/53.978/2.320 ms
+
+         Dallas	Time: 4.5 seconds	Length: 5.11 MBytes	Throughput: 9.55 Mbits/sec	Jitter: 0.926 ms     rtt min/avg/max/mdev = 38.523/40.071/43.960/1.532 ms
+
+        Ashburn	Time: 3.3 seconds	Length: 16.4 MBytes	Throughput: 42.3 Mbits/sec	Jitter: 0.212 ms     rtt min/avg/max/mdev = 36.798/39.297/41.750/1.666 ms
+
+       Hartford	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 0.890 ms     rtt min/avg/max/mdev = 75.771/77.707/84.095/2.380 ms
+
+       LasVegas	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.648 ms     rtt min/avg/max/mdev = 43.902/44.550/45.530/0.539 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.619 ms     rtt min/avg/max/mdev = 29.051/30.169/31.444/0.740 ms
+
+          Phili	Time: 3.3 seconds	Length: 18.8 MBytes	Throughput: 48.1 Mbits/sec	Jitter: 0.297 ms     rtt min/avg/max/mdev = 45.460/49.110/54.149/2.463 ms
+
+         McLean	Time: 3.1 seconds	Length: 30.1 MBytes	Throughput: 80.2 Mbits/sec	Jitter: 0.191 ms     rtt min/avg/max/mdev = 41.434/44.633/48.490/2.070 ms
+
+     LosAngeles	Time: 4.5 seconds	Length: 4.69 MBytes	Throughput: 8.76 Mbits/sec	Jitter: 1.109 ms     rtt min/avg/max/mdev = 56.300/58.582/60.729/1.271 ms
+
+      Charlotte	Time: 3.1 seconds	Length: 29.7 MBytes	Throughput: 79.3 Mbits/sec	Jitter: 0.206 ms     rtt min/avg/max/mdev = 28.969/30.468/35.106/1.662 ms
+
+           KanC	Time: 4.5 seconds	Length: 4.72 MBytes	Throughput: 8.87 Mbits/sec	Jitter: 1.392 ms     rtt min/avg/max/mdev = 42.664/44.738/47.831/1.542 ms
+
+        Detroit	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.757 ms     rtt min/avg/max/mdev = 53.754/54.500/55.707/0.628 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.649 ms     rtt min/avg/max/mdev = 48.905/50.807/52.929/1.100 ms
+
+            Ind	Time: 4.6 seconds	Length: 5.27 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.429 ms     rtt min/avg/max/mdev = 53.608/55.418/58.584/1.486 ms
+
+         Tucson	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.229 ms     rtt min/avg/max/mdev = 39.317/42.058/43.955/1.264 ms
+
+        Phoenix	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.586 ms     rtt min/avg/max/mdev = 64.905/66.652/69.434/1.352 ms
+
+        Raleigh	Time: 3.3 seconds	Length: 18.3 MBytes	Throughput: 46.2 Mbits/sec	Jitter: 0.447 ms     rtt min/avg/max/mdev = 35.567/38.801/43.435/2.988 ms
+
+        Buffalo	Time: 4.6 seconds	Length: 5.30 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.356 ms     rtt min/avg/max/mdev = 63.949/65.449/67.840/1.329 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 23.4 MBytes	Throughput: 61.7 Mbits/sec	Jitter: 0.334 ms     rtt min/avg/max/mdev = 25.454/27.313/31.983/1.710 ms
+
+            SLC	Time: 4.6 seconds	Length: 5.11 MBytes	Throughput: 9.41 Mbits/sec	Jitter: 1.656 ms     rtt min/avg/max/mdev = 38.984/41.325/44.169/1.647 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.162 ms     rtt min/avg/max/mdev = 34.134/36.633/39.056/1.232 ms
+
+     Cincinnati	Time: 3.3 seconds	Length: 18.6 MBytes	Throughput: 46.9 Mbits/sec	Jitter: 0.492 ms     rtt min/avg/max/mdev = 36.112/40.091/47.774/3.449 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.81 MBytes	Throughput: 8.94 Mbits/sec	Jitter: 2.600 ms     rtt min/avg/max/mdev = 44.840/46.549/48.710/1.235 ms
+
+        SanFran	Time: 4.5 seconds	Length: 5.24 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 2.632 ms     rtt min/avg/max/mdev = 54.913/56.095/57.721/0.830 ms
+
+         Boston	Time: 4.6 seconds	Length: 5.30 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 2.065 ms     rtt min/avg/max/mdev = 73.819/76.556/81.330/1.999 ms
+
+           Reno	Time: 4.5 seconds	Length: 5.24 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.718 ms     rtt min/avg/max/mdev = 57.403/60.015/62.910/1.348 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.738 ms     rtt min/avg/max/mdev = 53.396/55.482/57.374/1.108 ms
+
+      Cleveland	Time: 4.6 seconds	Length: 5.27 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.551 ms     rtt min/avg/max/mdev = 59.708/60.924/61.790/0.708 ms
+
+         BtnRge	Time: 3.3 seconds	Length: 21.9 MBytes	Throughput: 55.7 Mbits/sec	Jitter: 0.582 ms     rtt min/avg/max/mdev = 26.050/27.748/30.494/1.345 ms
+
+       Portland	Time: 4.6 seconds	Length: 4.41 MBytes	Throughput: 8.11 Mbits/sec	Jitter: 2.729 ms     rtt min/avg/max/mdev = 49.499/51.544/53.654/1.300 ms
+
+        Seattle	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.524 ms     rtt min/avg/max/mdev = 43.695/46.778/48.979/1.384 ms
+Average Throughput: 22.8797297297 Mbits/sec
+Average Jitter: 1.18097297297 ms
+Average RTT: 49.1483783784 ms
+
+
+*** Pittsburgh *** 7
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.6 seconds	Length: 5.31 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.769 ms     rtt min/avg/max/mdev = 88.775/90.407/92.514/1.183 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.67 Mbits/sec	Jitter: 1.679 ms     rtt min/avg/max/mdev = 49.855/51.947/53.976/1.252 ms
+
+      Starlight	Time: 4.6 seconds	Length: 4.58 MBytes	Throughput: 8.44 Mbits/sec	Jitter: 2.889 ms     rtt min/avg/max/mdev = 73.301/76.194/78.351/1.462 ms
+
+        Chicago	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.216 ms     rtt min/avg/max/mdev = 66.453/70.260/73.411/1.837 ms
+
+        NewYork	Time: 4.6 seconds	Length: 5.32 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.854 ms     rtt min/avg/max/mdev = 93.764/98.828/102.785/2.843 ms
+
+     Louisville	Time: 3.3 seconds	Length: 21.8 MBytes	Throughput: 55.7 Mbits/sec	Jitter: 0.415 ms     rtt min/avg/max/mdev = 50.692/53.790/62.735/3.610 ms
+
+           Jxnv	Time: 3.2 seconds	Length: 23.0 MBytes	Throughput: 60.3 Mbits/sec	Jitter: 0.294 ms     rtt min/avg/max/mdev = 49.014/52.575/58.320/2.876 ms
+
+
+         Dallas	Time: 4.6 seconds	Length: 4.69 MBytes	Throughput: 8.63 Mbits/sec	Jitter: 1.830 ms     rtt min/avg/max/mdev = 56.414/59.335/61.700/1.503 ms
+
+        Ashburn	Time: 3.2 seconds	Length: 24.1 MBytes	Throughput: 63.2 Mbits/sec	Jitter: 0.489 ms     rtt min/avg/max/mdev = 30.309/32.029/34.441/1.137 ms
+
+       Hartford	Time: 3.8 seconds	Length: 2.15 MBytes	Throughput: 4.81 Mbits/sec	Jitter: 1.685 ms     rtt min/avg/max/mdev = 95.426/98.821/101.073/1.651 ms
+
+       LasVegas	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.239 ms     rtt min/avg/max/mdev = 63.028/65.898/67.713/1.334 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.612 ms     rtt min/avg/max/mdev = 48.889/51.142/53.250/1.196 ms
+
+          Phili	Time: 3.2 seconds	Length: 24.0 MBytes	Throughput: 62.7 Mbits/sec	Jitter: 0.352 ms     rtt min/avg/max/mdev = 29.891/33.057/37.471/2.283 ms
+
+         McLean	Time: 3.2 seconds	Length: 23.5 MBytes	Throughput: 61.7 Mbits/sec	Jitter: 0.294 ms     rtt min/avg/max/mdev = 25.472/27.214/31.685/2.170 ms
+
+     LosAngeles	Time: 4.6 seconds	Length: 3.78 MBytes	Throughput: 6.95 Mbits/sec	Jitter: 3.350 ms     rtt min/avg/max/mdev = 77.872/79.705/82.996/1.597 ms
+
+      Charlotte	Time: 3.2 seconds	Length: 23.3 MBytes	Throughput: 61.1 Mbits/sec	Jitter: 0.717 ms     rtt min/avg/max/mdev = 39.929/44.500/55.599/4.450 ms
+
+           KanC	Time: 4.5 seconds	Length: 4.41 MBytes	Throughput: 8.16 Mbits/sec	Jitter: 2.785 ms     rtt min/avg/max/mdev = 64.432/66.138/70.028/1.560 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.404 ms     rtt min/avg/max/mdev = 71.816/74.857/76.902/1.604 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.26 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.559 ms     rtt min/avg/max/mdev = 69.124/70.598/72.956/1.033 ms
+
+            Ind	Time: 4.6 seconds	Length: 5.26 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.822 ms     rtt min/avg/max/mdev = 72.187/75.540/78.833/1.947 ms
+
+         Tucson	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.67 Mbits/sec	Jitter: 3.146 ms     rtt min/avg/max/mdev = 57.745/60.086/63.071/1.748 ms
+
+        Phoenix	Time: 4.6 seconds	Length: 5.31 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.186 ms     rtt min/avg/max/mdev = 83.943/85.648/87.875/1.546 ms
+
+        Raleigh	Time: 3.2 seconds	Length: 23.8 MBytes	Throughput: 62.6 Mbits/sec	Jitter: 0.524 ms     rtt min/avg/max/mdev = 35.447/37.962/43.663/2.213 ms
+
+        Buffalo	Time: 4.6 seconds	Length: 5.34 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.930 ms     rtt min/avg/max/mdev = 82.846/85.321/90.718/2.170 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 23.1 MBytes	Throughput: 60.5 Mbits/sec	Jitter: 0.461 ms     rtt min/avg/max/mdev = 44.727/48.701/57.956/3.447 ms
+
+            SLC	Time: 4.5 seconds	Length: 4.36 MBytes	Throughput: 8.09 Mbits/sec	Jitter: 3.841 ms     rtt min/avg/max/mdev = 58.924/61.162/65.880/1.998 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.134 ms     rtt min/avg/max/mdev = 53.855/56.186/57.778/1.355 ms
+
+     Cincinnati	Time: 3.3 seconds	Length: 17.9 MBytes	Throughput: 45.1 Mbits/sec	Jitter: 0.965 ms     rtt min/avg/max/mdev = 53.992/58.378/69.135/4.060 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 5.08 MBytes	Throughput: 9.38 Mbits/sec	Jitter: 2.216 ms     rtt min/avg/max/mdev = 63.169/65.345/68.898/1.763 ms
+
+        SanFran	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.577 ms     rtt min/avg/max/mdev = 71.746/75.348/77.559/1.657 ms
+
+         Boston	Time: 4.6 seconds	Length: 5.30 MBytes	Throughput: 9.74 Mbits/sec	Jitter: 1.847 ms     rtt min/avg/max/mdev = 89.952/93.658/99.305/2.346 ms
+
+           Reno	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.531 ms     rtt min/avg/max/mdev = 76.465/79.438/81.873/1.818 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.723 ms     rtt min/avg/max/mdev = 72.069/74.907/78.104/1.869 ms
+
+      Cleveland	Time: 4.6 seconds	Length: 5.28 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.696 ms     rtt min/avg/max/mdev = 76.039/80.804/83.287/2.096 ms
+
+         BtnRge	Time: 3.3 seconds	Length: 20.2 MBytes	Throughput: 51.4 Mbits/sec	Jitter: 0.540 ms     rtt min/avg/max/mdev = 52.565/57.386/69.059/4.277 ms
+
+       Portland	Time: 4.6 seconds	Length: 4.32 MBytes	Throughput: 7.95 Mbits/sec	Jitter: 2.977 ms     rtt min/avg/max/mdev = 67.167/70.141/73.861/1.970 ms
+
+        Seattle	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.791 ms     rtt min/avg/max/mdev = 63.014/65.625/68.074/1.538 ms
+Average Throughput: 22.4627027027 Mbits/sec
+Average Jitter: 1.76591891892 ms
+Average RTT: 65.6418918919 ms
+
+
+*** Dallas *** 8
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.4 seconds	Length: 6.73 MBytes	Throughput: 16.6 Mbits/sec	Jitter: 0.766 ms     rtt min/avg/max/mdev = 58.294/64.103/86.680/8.330 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.350 ms     rtt min/avg/max/mdev = 30.476/32.171/35.804/1.562 ms
+
+      Starlight	Time: 3.3 seconds	Length: 9.47 MBytes	Throughput: 24.0 Mbits/sec	Jitter: 0.669 ms     rtt min/avg/max/mdev = 43.891/46.659/50.979/2.585 ms
+
+        Chicago	Time: 3.3 seconds	Length: 22.2 MBytes	Throughput: 56.7 Mbits/sec	Jitter: 0.525 ms     rtt min/avg/max/mdev = 39.012/42.288/53.254/3.798 ms
+
+        NewYork	Time: 3.4 seconds	Length: 6.74 MBytes	Throughput: 16.7 Mbits/sec	Jitter: 0.573 ms     rtt min/avg/max/mdev = 67.319/73.943/87.981/5.643 ms
+
+     Louisville	Time: 4.5 seconds	Length: 5.02 MBytes	Throughput: 9.37 Mbits/sec	Jitter: 1.853 ms     rtt min/avg/max/mdev = 39.093/41.257/42.978/1.242 ms
+
+           Jxnv	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.958 ms     rtt min/avg/max/mdev = 39.901/41.630/46.341/1.794 ms
+
+     Pittsburgh	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.190 ms     rtt min/avg/max/mdev = 58.710/61.045/63.602/1.420 ms
+
+
+        Ashburn	Time: 4.4 seconds	Length: 5.11 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.489 ms     rtt min/avg/max/mdev = 49.795/50.818/52.203/0.881 ms
+
+       Hartford	Time: 3.5 seconds	Length: 3.89 MBytes	Throughput: 9.45 Mbits/sec	Jitter: 0.274 ms     rtt min/avg/max/mdev = 65.885/72.012/84.688/5.232 ms
+
+       LasVegas	Time: 3.3 seconds	Length: 19.1 MBytes	Throughput: 48.8 Mbits/sec	Jitter: 0.460 ms     rtt min/avg/max/mdev = 35.012/36.850/39.543/1.379 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 2.176 ms     rtt min/avg/max/mdev = 40.565/42.280/44.650/1.336 ms
+
+          Phili	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.67 Mbits/sec	Jitter: 2.327 ms     rtt min/avg/max/mdev = 59.409/60.813/63.169/1.167 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.653 ms     rtt min/avg/max/mdev = 54.924/56.495/58.378/1.155 ms
+
+     LosAngeles	Time: 3.4 seconds	Length: 10.5 MBytes	Throughput: 26.1 Mbits/sec	Jitter: 0.407 ms     rtt min/avg/max/mdev = 47.591/53.410/73.919/7.096 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.65 Mbits/sec	Jitter: 2.087 ms     rtt min/avg/max/mdev = 39.851/41.644/43.395/1.130 ms
+
+           KanC	Time: 3.3 seconds	Length: 14.9 MBytes	Throughput: 37.4 Mbits/sec	Jitter: 0.395 ms     rtt min/avg/max/mdev = 34.637/38.962/46.669/3.779 ms
+
+        Detroit	Time: 3.3 seconds	Length: 18.5 MBytes	Throughput: 47.4 Mbits/sec	Jitter: 0.493 ms     rtt min/avg/max/mdev = 43.495/46.815/52.053/2.982 ms
+
+       Missoula	Time: 3.3 seconds	Length: 14.7 MBytes	Throughput: 36.8 Mbits/sec	Jitter: 0.666 ms     rtt min/avg/max/mdev = 39.407/43.168/51.852/4.259 ms
+
+            Ind	Time: 3.3 seconds	Length: 12.1 MBytes	Throughput: 30.4 Mbits/sec	Jitter: 0.695 ms     rtt min/avg/max/mdev = 44.329/47.882/54.726/3.023 ms
+
+         Tucson	Time: 3.3 seconds	Length: 18.5 MBytes	Throughput: 46.7 Mbits/sec	Jitter: 0.275 ms     rtt min/avg/max/mdev = 30.310/34.203/43.970/3.931 ms
+
+        Phoenix	Time: 3.4 seconds	Length: 6.51 MBytes	Throughput: 16.0 Mbits/sec	Jitter: 0.229 ms     rtt min/avg/max/mdev = 53.642/57.617/67.529/3.735 ms
+
+        Raleigh	Time: 4.5 seconds	Length: 5.11 MBytes	Throughput: 9.58 Mbits/sec	Jitter: 1.980 ms     rtt min/avg/max/mdev = 42.449/44.439/45.824/0.900 ms
+
+        Buffalo	Time: 3.3 seconds	Length: 7.94 MBytes	Throughput: 20.4 Mbits/sec	Jitter: 0.242 ms     rtt min/avg/max/mdev = 49.464/52.746/57.192/2.434 ms
+
+        Atlanta	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.763 ms     rtt min/avg/max/mdev = 34.663/35.754/36.168/0.511 ms
+
+            SLC	Time: 3.3 seconds	Length: 24.8 MBytes	Throughput: 63.0 Mbits/sec	Jitter: 0.181 ms     rtt min/avg/max/mdev = 29.027/30.439/34.268/1.469 ms
+
+        Houston	Time: 3.2 seconds	Length: 27.2 MBytes	Throughput: 72.3 Mbits/sec	Jitter: 0.237 ms     rtt min/avg/max/mdev = 24.339/25.796/26.882/0.823 ms
+
+     Cincinnati	Time: 4.4 seconds	Length: 4.96 MBytes	Throughput: 9.41 Mbits/sec	Jitter: 0.688 ms     rtt min/avg/max/mdev = 42.088/44.461/46.858/1.381 ms
+
+          Tulsa	Time: 3.2 seconds	Length: 25.7 MBytes	Throughput: 67.4 Mbits/sec	Jitter: 0.354 ms     rtt min/avg/max/mdev = 24.709/25.886/26.696/0.741 ms
+
+        SanFran	Time: 3.3 seconds	Length: 13.4 MBytes	Throughput: 34.2 Mbits/sec	Jitter: 0.258 ms     rtt min/avg/max/mdev = 41.051/45.308/59.765/5.073 ms
+
+         Boston	Time: 3.3 seconds	Length: 9.80 MBytes	Throughput: 25.0 Mbits/sec	Jitter: 0.156 ms     rtt min/avg/max/mdev = 58.421/61.832/65.706/2.840 ms
+
+           Reno	Time: 3.3 seconds	Length: 20.2 MBytes	Throughput: 51.5 Mbits/sec	Jitter: 0.337 ms     rtt min/avg/max/mdev = 45.600/48.286/51.504/2.071 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 25.7 MBytes	Throughput: 65.9 Mbits/sec	Jitter: 0.290 ms     rtt min/avg/max/mdev = 40.933/44.632/50.517/2.657 ms
+
+      Cleveland	Time: 3.3 seconds	Length: 16.6 MBytes	Throughput: 42.6 Mbits/sec	Jitter: 0.236 ms     rtt min/avg/max/mdev = 45.514/49.555/65.208/5.395 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 5.07 MBytes	Throughput: 9.60 Mbits/sec	Jitter: 0.901 ms     rtt min/avg/max/mdev = 42.519/43.881/45.804/1.056 ms
+
+       Portland	Time: 3.3 seconds	Length: 16.5 MBytes	Throughput: 42.2 Mbits/sec	Jitter: 0.262 ms     rtt min/avg/max/mdev = 36.966/39.924/48.016/3.141 ms
+
+        Seattle	Time: 3.2 seconds	Length: 27.0 MBytes	Throughput: 71.3 Mbits/sec	Jitter: 0.331 ms     rtt min/avg/max/mdev = 32.958/34.680/37.441/1.303 ms
+Average Throughput: 29.57 Mbits/sec
+Average Jitter: 0.830432432432 ms
+Average RTT: 46.3116216216 ms
+
+
+*** Ashburn *** 9
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.134 ms     rtt min/avg/max/mdev = 74.887/77.589/80.434/1.908 ms
+
+        Jackson	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.687 ms     rtt min/avg/max/mdev = 38.970/40.061/41.401/0.928 ms
+
+      Starlight	Time: 4.5 seconds	Length: 4.71 MBytes	Throughput: 8.76 Mbits/sec	Jitter: 2.206 ms     rtt min/avg/max/mdev = 61.382/63.418/64.382/0.931 ms
+
+        Chicago	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.043 ms     rtt min/avg/max/mdev = 58.092/59.065/59.891/0.561 ms
+
+        NewYork	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.312 ms     rtt min/avg/max/mdev = 82.116/86.095/88.242/2.072 ms
+
+     Louisville	Time: 3.2 seconds	Length: 28.6 MBytes	Throughput: 76.1 Mbits/sec	Jitter: 0.236 ms     rtt min/avg/max/mdev = 37.347/40.333/47.994/2.800 ms
+
+           Jxnv	Time: 3.1 seconds	Length: 30.5 MBytes	Throughput: 81.4 Mbits/sec	Jitter: 0.242 ms     rtt min/avg/max/mdev = 38.065/40.033/43.568/1.734 ms
+
+     Pittsburgh	Time: 3.3 seconds	Length: 27.5 MBytes	Throughput: 70.9 Mbits/sec	Jitter: 5.426 ms     rtt min/avg/max/mdev = 29.210/30.315/31.841/0.873 ms
+
+         Dallas	Time: 4.5 seconds	Length: 4.38 MBytes	Throughput: 8.25 Mbits/sec	Jitter: 1.744 ms     rtt min/avg/max/mdev = 45.752/49.208/51.209/1.382 ms
+
+
+       Hartford	Time: 4.5 seconds	Length: 5.22 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.330 ms     rtt min/avg/max/mdev = 82.538/86.912/89.346/2.069 ms
+
+       LasVegas	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.176 ms     rtt min/avg/max/mdev = 51.200/53.662/54.898/1.146 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.465 ms     rtt min/avg/max/mdev = 38.651/39.616/42.028/1.019 ms
+
+          Phili	Time: 3.2 seconds	Length: 28.1 MBytes	Throughput: 73.8 Mbits/sec	Jitter: 0.251 ms     rtt min/avg/max/mdev = 29.020/30.661/32.277/1.054 ms
+
+         McLean	Time: 3.1 seconds	Length: 30.2 MBytes	Throughput: 80.7 Mbits/sec	Jitter: 0.154 ms     rtt min/avg/max/mdev = 24.731/25.802/26.793/0.848 ms
+
+     LosAngeles	Time: 4.5 seconds	Length: 3.88 MBytes	Throughput: 7.26 Mbits/sec	Jitter: 1.544 ms     rtt min/avg/max/mdev = 64.924/67.889/69.975/1.404 ms
+
+      Charlotte	Time: 3.1 seconds	Length: 30.7 MBytes	Throughput: 81.7 Mbits/sec	Jitter: 0.184 ms     rtt min/avg/max/mdev = 29.386/31.067/33.234/1.301 ms
+
+           KanC	Time: 4.5 seconds	Length: 4.55 MBytes	Throughput: 8.56 Mbits/sec	Jitter: 1.264 ms     rtt min/avg/max/mdev = 51.726/54.735/55.917/1.316 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.950 ms     rtt min/avg/max/mdev = 62.108/63.922/66.658/1.259 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.931 ms     rtt min/avg/max/mdev = 56.831/58.020/59.646/0.929 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.895 ms     rtt min/avg/max/mdev = 61.990/63.733/65.863/1.209 ms
+
+         Tucson	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.950 ms     rtt min/avg/max/mdev = 48.037/49.757/52.571/1.135 ms
+
+        Phoenix	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.569 ms     rtt min/avg/max/mdev = 71.673/74.602/84.556/3.602 ms
+
+        Raleigh	Time: 3.2 seconds	Length: 29.7 MBytes	Throughput: 78.9 Mbits/sec	Jitter: 0.252 ms     rtt min/avg/max/mdev = 24.350/25.842/27.356/0.896 ms
+
+        Buffalo	Time: 4.5 seconds	Length: 4.10 MBytes	Throughput: 7.69 Mbits/sec	Jitter: 1.679 ms     rtt min/avg/max/mdev = 70.876/72.630/74.153/1.201 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 30.5 MBytes	Throughput: 80.3 Mbits/sec	Jitter: 0.236 ms     rtt min/avg/max/mdev = 32.954/34.971/37.855/1.496 ms
+
+            SLC	Time: 4.5 seconds	Length: 4.74 MBytes	Throughput: 8.91 Mbits/sec	Jitter: 1.061 ms     rtt min/avg/max/mdev = 47.981/49.462/51.794/1.180 ms
+
+        Houston	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.040 ms     rtt min/avg/max/mdev = 43.356/44.753/48.005/1.350 ms
+
+     Cincinnati	Time: 3.1 seconds	Length: 29.3 MBytes	Throughput: 78.3 Mbits/sec	Jitter: 0.205 ms     rtt min/avg/max/mdev = 42.629/44.616/48.353/1.582 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.95 MBytes	Throughput: 9.27 Mbits/sec	Jitter: 1.630 ms     rtt min/avg/max/mdev = 53.166/54.588/56.100/1.082 ms
+
+        SanFran	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.216 ms     rtt min/avg/max/mdev = 60.279/63.256/65.514/1.682 ms
+
+         Boston	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 0.944 ms     rtt min/avg/max/mdev = 78.578/81.522/83.475/1.769 ms
+
+           Reno	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.669 ms     rtt min/avg/max/mdev = 66.213/67.573/70.224/1.230 ms
+
+         Mpolis	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.039 ms     rtt min/avg/max/mdev = 60.618/63.223/65.284/1.472 ms
+
+      Cleveland	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.721 ms     rtt min/avg/max/mdev = 66.824/69.905/79.581/4.102 ms
+
+         BtnRge	Time: 3.1 seconds	Length: 29.8 MBytes	Throughput: 79.4 Mbits/sec	Jitter: 0.236 ms     rtt min/avg/max/mdev = 41.450/44.615/49.357/2.243 ms
+
+       Portland	Time: 4.5 seconds	Length: 4.67 MBytes	Throughput: 8.73 Mbits/sec	Jitter: 2.014 ms     rtt min/avg/max/mdev = 57.280/58.723/59.902/0.795 ms
+
+        Seattle	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.077 ms     rtt min/avg/max/mdev = 51.460/54.390/55.869/1.285 ms
+Average Throughput: 27.9364864865 Mbits/sec
+Average Jitter: 1.12735135135 ms
+Average RTT: 54.4978378378 ms
+
+
+*** Hartford *** 10
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.2 seconds	Length: 21.0 MBytes	Throughput: 54.9 Mbits/sec	Jitter: 0.278 ms     rtt min/avg/max/mdev = 29.665/31.369/34.976/1.656 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.138 ms     rtt min/avg/max/mdev = 66.075/67.385/68.871/0.958 ms
+
+      Starlight	Time: 3.2 seconds	Length: 26.0 MBytes	Throughput: 68.7 Mbits/sec	Jitter: 0.481 ms     rtt min/avg/max/mdev = 51.200/53.835/59.518/2.405 ms
+
+        Chicago	Time: 3.2 seconds	Length: 27.7 MBytes	Throughput: 72.0 Mbits/sec	Jitter: 0.284 ms     rtt min/avg/max/mdev = 45.499/49.617/54.424/2.489 ms
+
+        NewYork	Time: 3.3 seconds	Length: 26.2 MBytes	Throughput: 67.4 Mbits/sec	Jitter: 0.257 ms     rtt min/avg/max/mdev = 28.829/30.837/33.202/1.398 ms
+
+     Louisville	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.942 ms     rtt min/avg/max/mdev = 75.862/77.601/79.551/1.198 ms
+
+           Jxnv	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.905 ms     rtt min/avg/max/mdev = 75.717/77.726/80.593/1.441 ms
+
+     Pittsburgh	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.089 ms     rtt min/avg/max/mdev = 92.257/96.205/99.092/2.002 ms
+
+         Dallas	Time: 3.3 seconds	Length: 24.1 MBytes	Throughput: 62.1 Mbits/sec	Jitter: 0.299 ms     rtt min/avg/max/mdev = 63.829/68.052/74.997/3.304 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 4.77 MBytes	Throughput: 9.08 Mbits/sec	Jitter: 1.365 ms     rtt min/avg/max/mdev = 85.415/87.907/89.482/1.307 ms
+
+
+       LasVegas	Time: 3.3 seconds	Length: 25.2 MBytes	Throughput: 64.7 Mbits/sec	Jitter: 0.222 ms     rtt min/avg/max/mdev = 58.392/62.392/67.777/2.643 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.991 ms     rtt min/avg/max/mdev = 74.759/76.339/77.204/0.832 ms
+
+          Phili	Time: 4.4 seconds	Length: 5.14 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.687 ms     rtt min/avg/max/mdev = 94.919/96.901/99.133/1.522 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.04 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 0.944 ms     rtt min/avg/max/mdev = 90.305/91.806/93.238/0.905 ms
+
+     LosAngeles	Time: 3.3 seconds	Length: 17.7 MBytes	Throughput: 45.1 Mbits/sec	Jitter: 0.212 ms     rtt min/avg/max/mdev = 71.358/77.332/89.508/4.779 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.109 ms     rtt min/avg/max/mdev = 76.795/78.695/80.733/1.194 ms
+
+           KanC	Time: 3.2 seconds	Length: 27.1 MBytes	Throughput: 71.2 Mbits/sec	Jitter: 0.312 ms     rtt min/avg/max/mdev = 49.669/53.434/57.442/2.410 ms
+
+        Detroit	Time: 3.2 seconds	Length: 26.9 MBytes	Throughput: 71.2 Mbits/sec	Jitter: 0.225 ms     rtt min/avg/max/mdev = 41.557/43.713/49.333/2.211 ms
+
+       Missoula	Time: 3.3 seconds	Length: 15.1 MBytes	Throughput: 38.8 Mbits/sec	Jitter: 0.273 ms     rtt min/avg/max/mdev = 62.737/67.875/78.516/4.184 ms
+
+            Ind	Time: 3.2 seconds	Length: 26.3 MBytes	Throughput: 69.4 Mbits/sec	Jitter: 0.215 ms     rtt min/avg/max/mdev = 51.104/53.729/64.024/3.579 ms
+
+         Tucson	Time: 3.2 seconds	Length: 15.0 MBytes	Throughput: 38.7 Mbits/sec	Jitter: 0.175 ms     rtt min/avg/max/mdev = 62.648/66.660/71.402/2.580 ms
+
+        Phoenix	Time: 3.3 seconds	Length: 13.7 MBytes	Throughput: 34.9 Mbits/sec	Jitter: 0.200 ms     rtt min/avg/max/mdev = 75.781/80.109/82.637/2.449 ms
+
+        Raleigh	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.202 ms     rtt min/avg/max/mdev = 76.843/81.364/94.051/4.691 ms
+
+        Buffalo	Time: 3.2 seconds	Length: 27.2 MBytes	Throughput: 71.9 Mbits/sec	Jitter: 0.561 ms     rtt min/avg/max/mdev = 32.741/35.307/39.890/1.985 ms
+
+        Atlanta	Time: 4.5 seconds	Length: 4.89 MBytes	Throughput: 9.10 Mbits/sec	Jitter: 1.233 ms     rtt min/avg/max/mdev = 68.874/72.461/75.490/1.970 ms
+
+            SLC	Time: 3.3 seconds	Length: 27.1 MBytes	Throughput: 69.5 Mbits/sec	Jitter: 0.432 ms     rtt min/avg/max/mdev = 54.099/57.663/65.678/3.188 ms
+
+        Houston	Time: 3.2 seconds	Length: 26.7 MBytes	Throughput: 70.7 Mbits/sec	Jitter: 0.267 ms     rtt min/avg/max/mdev = 57.980/62.037/69.823/3.499 ms
+
+     Cincinnati	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.065 ms     rtt min/avg/max/mdev = 80.660/82.316/84.759/1.066 ms
+
+          Tulsa	Time: 3.2 seconds	Length: 22.7 MBytes	Throughput: 58.5 Mbits/sec	Jitter: 0.247 ms     rtt min/avg/max/mdev = 66.121/71.401/81.676/4.265 ms
+
+        SanFran	Time: 3.3 seconds	Length: 22.1 MBytes	Throughput: 56.0 Mbits/sec	Jitter: 0.282 ms     rtt min/avg/max/mdev = 65.910/70.145/76.222/3.154 ms
+
+         Boston	Time: 3.2 seconds	Length: 26.7 MBytes	Throughput: 70.4 Mbits/sec	Jitter: 0.290 ms     rtt min/avg/max/mdev = 24.497/26.120/31.459/1.961 ms
+
+           Reno	Time: 3.3 seconds	Length: 4.32 MBytes	Throughput: 11.0 Mbits/sec	Jitter: 0.363 ms     rtt min/avg/max/mdev = 71.761/75.404/79.411/2.485 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 23.5 MBytes	Throughput: 60.5 Mbits/sec	Jitter: 0.265 ms     rtt min/avg/max/mdev = 66.407/72.076/82.296/4.847 ms
+
+      Cleveland	Time: 3.2 seconds	Length: 27.2 MBytes	Throughput: 71.6 Mbits/sec	Jitter: 0.280 ms     rtt min/avg/max/mdev = 37.099/38.880/41.189/1.315 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 4.96 MBytes	Throughput: 9.37 Mbits/sec	Jitter: 1.164 ms     rtt min/avg/max/mdev = 80.705/82.627/84.275/0.998 ms
+
+       Portland	Time: 3.2 seconds	Length: 21.3 MBytes	Throughput: 55.1 Mbits/sec	Jitter: 0.234 ms     rtt min/avg/max/mdev = 61.615/67.106/74.689/3.734 ms
+
+        Seattle	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 72.2 Mbits/sec	Jitter: 0.325 ms     rtt min/avg/max/mdev = 57.379/61.577/66.882/2.983 ms
+Average Throughput: 41.9248648649 Mbits/sec
+Average Jitter: 0.589540540541 ms
+Average RTT: 66.1035135135 ms
+
+
+*** LasVegas *** 11
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.2 seconds	Length: 27.3 MBytes	Throughput: 71.9 Mbits/sec	Jitter: 0.218 ms     rtt min/avg/max/mdev = 49.546/53.366/57.187/2.781 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.878 ms     rtt min/avg/max/mdev = 33.971/35.015/37.140/0.884 ms
+
+      Starlight	Time: 3.3 seconds	Length: 16.5 MBytes	Throughput: 42.4 Mbits/sec	Jitter: 0.259 ms     rtt min/avg/max/mdev = 37.251/39.062/40.371/1.042 ms
+
+        Chicago	Time: 3.2 seconds	Length: 27.6 MBytes	Throughput: 71.8 Mbits/sec	Jitter: 0.230 ms     rtt min/avg/max/mdev = 33.075/34.307/36.673/0.977 ms
+
+        NewYork	Time: 3.3 seconds	Length: 12.9 MBytes	Throughput: 32.9 Mbits/sec	Jitter: 0.152 ms     rtt min/avg/max/mdev = 57.715/62.622/66.415/3.009 ms
+
+     Louisville	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 0.840 ms     rtt min/avg/max/mdev = 42.543/44.605/46.113/1.270 ms
+
+           Jxnv	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.830 ms     rtt min/avg/max/mdev = 42.762/44.385/46.075/0.896 ms
+
+     Pittsburgh	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.871 ms     rtt min/avg/max/mdev = 59.569/62.138/63.927/1.187 ms
+
+         Dallas	Time: 3.3 seconds	Length: 24.4 MBytes	Throughput: 62.5 Mbits/sec	Jitter: 0.246 ms     rtt min/avg/max/mdev = 33.022/34.799/39.167/1.677 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 4.70 MBytes	Throughput: 8.86 Mbits/sec	Jitter: 1.882 ms     rtt min/avg/max/mdev = 54.724/56.727/58.528/1.033 ms
+
+       Hartford	Time: 3.4 seconds	Length: 5.16 MBytes	Throughput: 12.8 Mbits/sec	Jitter: 0.591 ms     rtt min/avg/max/mdev = 62.156/68.292/83.065/5.642 ms
+
+
+        Memphis	Time: 4.4 seconds	Length: 5.04 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.726 ms     rtt min/avg/max/mdev = 44.522/46.714/50.134/1.758 ms
+
+          Phili	Time: 4.7 seconds	Length: 5.33 MBytes	Throughput: 9.59 Mbits/sec	Jitter: 3.605 ms     rtt min/avg/max/mdev = 61.449/65.382/68.819/2.255 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.893 ms     rtt min/avg/max/mdev = 58.902/60.330/62.915/1.321 ms
+
+     LosAngeles	Time: 3.4 seconds	Length: 10.4 MBytes	Throughput: 25.8 Mbits/sec	Jitter: 0.217 ms     rtt min/avg/max/mdev = 43.525/47.747/57.725/4.188 ms
+
+      Charlotte	Time: 4.5 seconds	Length: 5.12 MBytes	Throughput: 9.66 Mbits/sec	Jitter: 1.874 ms     rtt min/avg/max/mdev = 44.687/46.305/48.259/1.149 ms
+
+           KanC	Time: 3.3 seconds	Length: 18.5 MBytes	Throughput: 46.8 Mbits/sec	Jitter: 0.493 ms     rtt min/avg/max/mdev = 30.248/33.433/40.975/3.010 ms
+
+        Detroit	Time: 3.3 seconds	Length: 18.2 MBytes	Throughput: 46.4 Mbits/sec	Jitter: 0.385 ms     rtt min/avg/max/mdev = 39.805/42.946/51.252/3.324 ms
+
+       Missoula	Time: 3.3 seconds	Length: 14.7 MBytes	Throughput: 37.2 Mbits/sec	Jitter: 0.586 ms     rtt min/avg/max/mdev = 34.743/38.752/43.219/2.782 ms
+
+            Ind	Time: 3.3 seconds	Length: 12.3 MBytes	Throughput: 30.9 Mbits/sec	Jitter: 0.567 ms     rtt min/avg/max/mdev = 40.334/44.277/63.799/6.742 ms
+
+         Tucson	Time: 3.3 seconds	Length: 14.9 MBytes	Throughput: 37.5 Mbits/sec	Jitter: 0.724 ms     rtt min/avg/max/mdev = 34.799/38.560/50.829/4.644 ms
+
+        Phoenix	Time: 3.4 seconds	Length: 8.38 MBytes	Throughput: 20.6 Mbits/sec	Jitter: 0.284 ms     rtt min/avg/max/mdev = 49.492/53.447/66.454/4.651 ms
+
+        Raleigh	Time: 4.6 seconds	Length: 3.94 MBytes	Throughput: 7.23 Mbits/sec	Jitter: 2.581 ms     rtt min/avg/max/mdev = 48.451/50.716/52.423/1.285 ms
+
+        Buffalo	Time: 3.4 seconds	Length: 7.18 MBytes	Throughput: 17.9 Mbits/sec	Jitter: 0.907 ms     rtt min/avg/max/mdev = 49.466/54.441/80.236/8.750 ms
+
+        Atlanta	Time: 4.5 seconds	Length: 5.12 MBytes	Throughput: 9.63 Mbits/sec	Jitter: 1.311 ms     rtt min/avg/max/mdev = 40.266/41.451/43.019/0.878 ms
+
+            SLC	Time: 3.3 seconds	Length: 21.8 MBytes	Throughput: 56.2 Mbits/sec	Jitter: 0.455 ms     rtt min/avg/max/mdev = 26.235/28.392/31.929/1.697 ms
+
+        Houston	Time: 3.3 seconds	Length: 18.5 MBytes	Throughput: 46.4 Mbits/sec	Jitter: 0.648 ms     rtt min/avg/max/mdev = 29.943/32.411/37.271/2.259 ms
+
+     Cincinnati	Time: 4.5 seconds	Length: 4.92 MBytes	Throughput: 9.08 Mbits/sec	Jitter: 1.924 ms     rtt min/avg/max/mdev = 49.097/51.388/53.407/1.468 ms
+
+          Tulsa	Time: 3.3 seconds	Length: 19.8 MBytes	Throughput: 51.0 Mbits/sec	Jitter: 1.790 ms     rtt min/avg/max/mdev = 39.935/43.568/61.124/6.247 ms
+
+        SanFran	Time: 3.3 seconds	Length: 11.7 MBytes	Throughput: 29.5 Mbits/sec	Jitter: 0.326 ms     rtt min/avg/max/mdev = 40.043/43.431/48.411/3.089 ms
+
+         Boston	Time: 3.4 seconds	Length: 6.85 MBytes	Throughput: 17.1 Mbits/sec	Jitter: 0.933 ms     rtt min/avg/max/mdev = 56.984/62.855/71.003/3.936 ms
+
+           Reno	Time: 3.3 seconds	Length: 13.2 MBytes	Throughput: 33.1 Mbits/sec	Jitter: 0.304 ms     rtt min/avg/max/mdev = 45.344/49.336/59.231/4.957 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 16.5 MBytes	Throughput: 41.5 Mbits/sec	Jitter: 0.449 ms     rtt min/avg/max/mdev = 37.984/39.983/41.517/1.244 ms
+
+      Cleveland	Time: 3.3 seconds	Length: 17.6 MBytes	Throughput: 45.3 Mbits/sec	Jitter: 0.252 ms     rtt min/avg/max/mdev = 41.639/45.894/62.382/5.633 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 4.99 MBytes	Throughput: 9.47 Mbits/sec	Jitter: 1.339 ms     rtt min/avg/max/mdev = 48.143/49.482/51.794/1.058 ms
+
+       Portland	Time: 3.2 seconds	Length: 26.2 MBytes	Throughput: 68.0 Mbits/sec	Jitter: 0.752 ms     rtt min/avg/max/mdev = 33.306/35.424/40.470/1.858 ms
+
+        Seattle	Time: 3.2 seconds	Length: 26.5 MBytes	Throughput: 70.3 Mbits/sec	Jitter: 0.279 ms     rtt min/avg/max/mdev = 29.654/30.884/33.409/1.099 ms
+Average Throughput: 30.7448648649 Mbits/sec
+Average Jitter: 0.908135135135 ms
+Average RTT: 46.2894594595 ms
+
+
+*** Memphis *** 12
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.898 ms     rtt min/avg/max/mdev = 67.158/68.382/70.420/0.957 ms
+
+        Jackson	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.476 ms     rtt min/avg/max/mdev = 29.645/30.878/32.230/0.779 ms
+
+      Starlight	Time: 4.5 seconds	Length: 4.94 MBytes	Throughput: 9.23 Mbits/sec	Jitter: 1.289 ms     rtt min/avg/max/mdev = 52.388/54.645/58.904/1.895 ms
+
+        Chicago	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.875 ms     rtt min/avg/max/mdev = 48.115/49.228/50.149/0.774 ms
+
+        NewYork	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.829 ms     rtt min/avg/max/mdev = 74.103/76.819/78.617/1.416 ms
+
+     Louisville	Time: 4.3 seconds	Length: 5.03 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.568 ms     rtt min/avg/max/mdev = 28.537/31.261/34.707/1.502 ms
+
+           Jxnv	Time: 4.4 seconds	Length: 5.07 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.684 ms     rtt min/avg/max/mdev = 29.619/31.027/33.193/1.163 ms
+
+     Pittsburgh	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.362 ms     rtt min/avg/max/mdev = 46.828/49.361/51.789/1.613 ms
+
+         Dallas	Time: 4.5 seconds	Length: 5.06 MBytes	Throughput: 9.32 Mbits/sec	Jitter: 1.549 ms     rtt min/avg/max/mdev = 38.469/39.759/41.052/0.737 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.110 ms     rtt min/avg/max/mdev = 37.753/39.727/41.209/0.945 ms
+
+       Hartford	Time: 4.5 seconds	Length: 4.51 MBytes	Throughput: 8.36 Mbits/sec	Jitter: 1.615 ms     rtt min/avg/max/mdev = 74.025/76.324/78.702/1.591 ms
+
+       LasVegas	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.123 ms     rtt min/avg/max/mdev = 42.534/44.746/46.188/1.037 ms
+
+
+          Phili	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.818 ms     rtt min/avg/max/mdev = 47.607/49.657/54.726/1.995 ms
+
+         McLean	Time: 4.3 seconds	Length: 5.04 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.567 ms     rtt min/avg/max/mdev = 42.776/44.610/47.660/1.261 ms
+
+     LosAngeles	Time: 4.5 seconds	Length: 4.64 MBytes	Throughput: 8.64 Mbits/sec	Jitter: 1.121 ms     rtt min/avg/max/mdev = 56.315/58.223/60.290/1.178 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.694 ms     rtt min/avg/max/mdev = 29.409/30.959/32.231/0.846 ms
+
+           KanC	Time: 4.5 seconds	Length: 4.64 MBytes	Throughput: 8.64 Mbits/sec	Jitter: 2.168 ms     rtt min/avg/max/mdev = 42.957/45.183/49.027/1.746 ms
+
+        Detroit	Time: 4.4 seconds	Length: 5.16 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.666 ms     rtt min/avg/max/mdev = 53.323/54.753/56.695/1.102 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.570 ms     rtt min/avg/max/mdev = 48.423/49.740/50.536/0.640 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.26 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.697 ms     rtt min/avg/max/mdev = 51.743/54.205/55.715/1.256 ms
+
+         Tucson	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.766 ms     rtt min/avg/max/mdev = 38.731/39.794/41.201/0.827 ms
+
+        Phoenix	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.988 ms     rtt min/avg/max/mdev = 61.942/63.213/66.249/1.254 ms
+
+        Raleigh	Time: 4.4 seconds	Length: 5.11 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.995 ms     rtt min/avg/max/mdev = 34.113/35.386/37.149/0.810 ms
+
+        Buffalo	Time: 4.5 seconds	Length: 4.26 MBytes	Throughput: 7.92 Mbits/sec	Jitter: 1.589 ms     rtt min/avg/max/mdev = 61.468/63.456/65.607/1.456 ms
+
+        Atlanta	Time: 4.3 seconds	Length: 5.03 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.766 ms     rtt min/avg/max/mdev = 25.604/26.251/27.597/0.564 ms
+
+            SLC	Time: 4.5 seconds	Length: 4.43 MBytes	Throughput: 8.20 Mbits/sec	Jitter: 3.109 ms     rtt min/avg/max/mdev = 38.510/39.803/40.981/0.822 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.07 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.390 ms     rtt min/avg/max/mdev = 34.160/35.339/36.478/0.881 ms
+
+     Cincinnati	Time: 4.3 seconds	Length: 5.03 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.551 ms     rtt min/avg/max/mdev = 33.079/34.763/36.317/0.859 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.77 MBytes	Throughput: 8.79 Mbits/sec	Jitter: 6.985 ms     rtt min/avg/max/mdev = 43.057/44.419/46.630/1.008 ms
+
+        SanFran	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.165 ms     rtt min/avg/max/mdev = 52.422/54.348/55.707/0.912 ms
+
+         Boston	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.772 ms     rtt min/avg/max/mdev = 71.464/73.007/75.166/1.192 ms
+
+           Reno	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 0.831 ms     rtt min/avg/max/mdev = 57.805/59.409/60.716/0.969 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.647 ms     rtt min/avg/max/mdev = 52.904/54.668/56.018/1.045 ms
+
+      Cleveland	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.506 ms     rtt min/avg/max/mdev = 56.654/59.165/61.731/1.516 ms
+
+         BtnRge	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.694 ms     rtt min/avg/max/mdev = 34.512/35.559/37.305/0.697 ms
+
+       Portland	Time: 4.5 seconds	Length: 4.68 MBytes	Throughput: 8.76 Mbits/sec	Jitter: 2.608 ms     rtt min/avg/max/mdev = 48.192/49.551/51.153/0.907 ms
+
+        Seattle	Time: 4.3 seconds	Length: 5.03 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.050 ms     rtt min/avg/max/mdev = 43.542/44.812/47.877/1.145 ms
+Average Throughput: 9.46027027027 Mbits/sec
+Average Jitter: 1.32678378378 ms
+Average RTT: 48.4389189189 ms
+
+
+*** Phili *** 13
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.064 ms     rtt min/avg/max/mdev = 84.582/86.678/89.230/1.315 ms
+
+        Jackson	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.678 ms     rtt min/avg/max/mdev = 46.537/49.207/50.842/1.339 ms
+
+      Starlight	Time: 4.5 seconds	Length: 4.79 MBytes	Throughput: 8.98 Mbits/sec	Jitter: 1.384 ms     rtt min/avg/max/mdev = 71.568/73.474/76.585/1.543 ms
+
+        Chicago	Time: 4.4 seconds	Length: 5.08 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.702 ms     rtt min/avg/max/mdev = 66.021/68.400/70.539/1.386 ms
+
+        NewYork	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.942 ms     rtt min/avg/max/mdev = 93.361/96.183/98.266/1.721 ms
+
+     Louisville	Time: 3.2 seconds	Length: 29.0 MBytes	Throughput: 77.0 Mbits/sec	Jitter: 0.198 ms     rtt min/avg/max/mdev = 46.569/49.598/52.067/1.477 ms
+
+           Jxnv	Time: 3.1 seconds	Length: 29.8 MBytes	Throughput: 79.6 Mbits/sec	Jitter: 0.208 ms     rtt min/avg/max/mdev = 46.453/48.229/50.067/1.187 ms
+
+     Pittsburgh	Time: 3.2 seconds	Length: 28.1 MBytes	Throughput: 74.2 Mbits/sec	Jitter: 0.268 ms     rtt min/avg/max/mdev = 28.850/30.674/32.934/1.170 ms
+
+         Dallas	Time: 4.4 seconds	Length: 4.70 MBytes	Throughput: 8.90 Mbits/sec	Jitter: 1.655 ms     rtt min/avg/max/mdev = 57.069/58.598/59.803/0.842 ms
+
+        Ashburn	Time: 3.1 seconds	Length: 29.8 MBytes	Throughput: 79.8 Mbits/sec	Jitter: 0.180 ms     rtt min/avg/max/mdev = 29.268/30.572/31.812/0.968 ms
+
+       Hartford	Time: 4.5 seconds	Length: 3.35 MBytes	Throughput: 6.24 Mbits/sec	Jitter: 1.524 ms     rtt min/avg/max/mdev = 94.991/96.389/99.126/1.252 ms
+
+       LasVegas	Time: 4.4 seconds	Length: 5.05 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.204 ms     rtt min/avg/max/mdev = 62.007/63.070/64.056/0.739 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.838 ms     rtt min/avg/max/mdev = 46.279/48.634/50.007/1.177 ms
+
+
+         McLean	Time: 3.1 seconds	Length: 30.5 MBytes	Throughput: 81.4 Mbits/sec	Jitter: 0.195 ms     rtt min/avg/max/mdev = 24.764/26.006/27.362/0.858 ms
+
+     LosAngeles	Time: 4.5 seconds	Length: 3.44 MBytes	Throughput: 6.40 Mbits/sec	Jitter: 0.812 ms     rtt min/avg/max/mdev = 73.058/76.654/78.640/1.697 ms
+
+      Charlotte	Time: 3.2 seconds	Length: 30.4 MBytes	Throughput: 80.7 Mbits/sec	Jitter: 0.155 ms     rtt min/avg/max/mdev = 36.862/39.771/43.296/1.685 ms
+
+           KanC	Time: 4.4 seconds	Length: 5.15 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.137 ms     rtt min/avg/max/mdev = 61.775/63.506/65.875/1.175 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.964 ms     rtt min/avg/max/mdev = 70.413/72.239/74.694/1.332 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.10 MBytes	Throughput: 9.53 Mbits/sec	Jitter: 1.779 ms     rtt min/avg/max/mdev = 65.528/68.443/70.593/1.740 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.22 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 1.182 ms     rtt min/avg/max/mdev = 69.181/72.656/76.074/1.953 ms
+
+         Tucson	Time: 4.4 seconds	Length: 5.06 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.773 ms     rtt min/avg/max/mdev = 57.284/59.146/61.718/1.496 ms
+
+        Phoenix	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.097 ms     rtt min/avg/max/mdev = 81.491/82.129/83.471/0.798 ms
+
+        Raleigh	Time: 3.1 seconds	Length: 30.2 MBytes	Throughput: 80.6 Mbits/sec	Jitter: 0.156 ms     rtt min/avg/max/mdev = 33.008/34.528/36.177/1.001 ms
+
+        Buffalo	Time: 4.5 seconds	Length: 3.34 MBytes	Throughput: 6.26 Mbits/sec	Jitter: 1.893 ms     rtt min/avg/max/mdev = 81.422/83.230/84.786/1.035 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 29.8 MBytes	Throughput: 78.5 Mbits/sec	Jitter: 0.284 ms     rtt min/avg/max/mdev = 41.366/44.394/47.030/1.599 ms
+
+            SLC	Time: 4.5 seconds	Length: 4.24 MBytes	Throughput: 7.96 Mbits/sec	Jitter: 2.304 ms     rtt min/avg/max/mdev = 58.018/59.369/60.226/0.779 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.519 ms     rtt min/avg/max/mdev = 52.180/53.772/55.869/1.289 ms
+
+     Cincinnati	Time: 3.2 seconds	Length: 27.4 MBytes	Throughput: 72.6 Mbits/sec	Jitter: 0.165 ms     rtt min/avg/max/mdev = 49.725/54.026/64.821/4.016 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.96 MBytes	Throughput: 9.34 Mbits/sec	Jitter: 1.651 ms     rtt min/avg/max/mdev = 61.953/62.656/63.545/0.609 ms
+
+        SanFran	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.258 ms     rtt min/avg/max/mdev = 69.449/73.412/75.885/1.697 ms
+
+         Boston	Time: 4.5 seconds	Length: 5.19 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.873 ms     rtt min/avg/max/mdev = 89.026/91.796/94.191/1.468 ms
+
+           Reno	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.202 ms     rtt min/avg/max/mdev = 76.571/77.701/78.906/0.909 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.221 ms     rtt min/avg/max/mdev = 71.634/73.008/73.832/0.815 ms
+
+      Cleveland	Time: 4.4 seconds	Length: 5.16 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.066 ms     rtt min/avg/max/mdev = 76.245/77.948/80.430/1.369 ms
+
+         BtnRge	Time: 3.2 seconds	Length: 29.0 MBytes	Throughput: 77.0 Mbits/sec	Jitter: 0.204 ms     rtt min/avg/max/mdev = 50.880/54.722/63.106/3.300 ms
+
+       Portland	Time: 4.5 seconds	Length: 4.58 MBytes	Throughput: 8.58 Mbits/sec	Jitter: 2.305 ms     rtt min/avg/max/mdev = 64.032/67.657/70.369/2.040 ms
+
+        Seattle	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.317 ms     rtt min/avg/max/mdev = 60.977/64.373/66.470/1.488 ms
+Average Throughput: 27.7994594595 Mbits/sec
+Average Jitter: 1.00964864865 ms
+Average RTT: 63.0448648649 ms
+
+
+*** McLean *** 14
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 0.820 ms     rtt min/avg/max/mdev = 80.177/82.404/83.993/1.144 ms
+
+        Jackson	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.935 ms     rtt min/avg/max/mdev = 43.393/45.126/47.055/1.149 ms
+
+      Starlight	Time: 4.5 seconds	Length: 4.91 MBytes	Throughput: 9.15 Mbits/sec	Jitter: 1.326 ms     rtt min/avg/max/mdev = 66.873/68.717/71.359/1.297 ms
+
+        Chicago	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.800 ms     rtt min/avg/max/mdev = 60.189/63.995/65.677/1.549 ms
+
+        NewYork	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.037 ms     rtt min/avg/max/mdev = 90.296/92.625/93.612/1.085 ms
+
+     Louisville	Time: 3.2 seconds	Length: 28.6 MBytes	Throughput: 75.7 Mbits/sec	Jitter: 0.267 ms     rtt min/avg/max/mdev = 42.720/44.968/51.426/2.504 ms
+
+           Jxnv	Time: 3.1 seconds	Length: 29.2 MBytes	Throughput: 77.9 Mbits/sec	Jitter: 0.183 ms     rtt min/avg/max/mdev = 41.600/43.898/48.976/1.934 ms
+
+     Pittsburgh	Time: 3.2 seconds	Length: 29.7 MBytes	Throughput: 79.1 Mbits/sec	Jitter: 0.319 ms     rtt min/avg/max/mdev = 25.275/26.343/27.285/0.595 ms
+
+         Dallas	Time: 4.4 seconds	Length: 5.11 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.252 ms     rtt min/avg/max/mdev = 52.292/53.700/54.929/0.824 ms
+
+        Ashburn	Time: 3.1 seconds	Length: 30.0 MBytes	Throughput: 80.0 Mbits/sec	Jitter: 0.161 ms     rtt min/avg/max/mdev = 25.134/26.759/32.201/1.957 ms
+
+       Hartford	Time: 4.5 seconds	Length: 3.72 MBytes	Throughput: 6.89 Mbits/sec	Jitter: 1.995 ms     rtt min/avg/max/mdev = 86.481/91.689/93.412/2.022 ms
+
+       LasVegas	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.188 ms     rtt min/avg/max/mdev = 57.207/59.105/60.585/1.064 ms
+
+        Memphis	Time: 4.3 seconds	Length: 5.02 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 0.752 ms     rtt min/avg/max/mdev = 43.850/46.431/49.140/1.844 ms
+
+          Phili	Time: 3.2 seconds	Length: 22.3 MBytes	Throughput: 57.6 Mbits/sec	Jitter: 0.758 ms     rtt min/avg/max/mdev = 25.172/28.376/31.679/1.951 ms
+
+
+     LosAngeles	Time: 4.6 seconds	Length: 3.59 MBytes	Throughput: 6.55 Mbits/sec	Jitter: 2.786 ms     rtt min/avg/max/mdev = 71.440/76.020/78.586/2.387 ms
+
+      Charlotte	Time: 3.2 seconds	Length: 22.3 MBytes	Throughput: 58.3 Mbits/sec	Jitter: 0.299 ms     rtt min/avg/max/mdev = 35.478/37.140/39.707/1.414 ms
+
+           KanC	Time: 4.6 seconds	Length: 4.26 MBytes	Throughput: 7.83 Mbits/sec	Jitter: 2.449 ms     rtt min/avg/max/mdev = 58.690/60.411/63.800/1.451 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.875 ms     rtt min/avg/max/mdev = 67.577/71.537/76.689/2.506 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 2.957 ms     rtt min/avg/max/mdev = 63.824/66.004/70.673/1.895 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.21 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 3.557 ms     rtt min/avg/max/mdev = 68.183/71.146/75.069/1.939 ms
+
+         Tucson	Time: 4.5 seconds	Length: 5.18 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 1.826 ms     rtt min/avg/max/mdev = 52.689/55.784/58.619/1.802 ms
+
+        Phoenix	Time: 4.7 seconds	Length: 5.36 MBytes	Throughput: 9.65 Mbits/sec	Jitter: 3.902 ms     rtt min/avg/max/mdev = 76.451/80.403/86.989/2.702 ms
+
+        Raleigh	Time: 3.2 seconds	Length: 23.6 MBytes	Throughput: 62.3 Mbits/sec	Jitter: 0.336 ms     rtt min/avg/max/mdev = 31.654/33.327/35.433/1.308 ms
+
+        Buffalo	Time: 4.5 seconds	Length: 4.06 MBytes	Throughput: 7.49 Mbits/sec	Jitter: 2.880 ms     rtt min/avg/max/mdev = 76.971/79.951/83.621/1.899 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 21.5 MBytes	Throughput: 55.9 Mbits/sec	Jitter: 0.535 ms     rtt min/avg/max/mdev = 40.618/43.881/50.541/2.595 ms
+
+            SLC	Time: 4.5 seconds	Length: 4.33 MBytes	Throughput: 8.07 Mbits/sec	Jitter: 3.349 ms     rtt min/avg/max/mdev = 53.458/56.097/59.131/1.704 ms
+
+        Houston	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 2.264 ms     rtt min/avg/max/mdev = 48.877/51.213/53.713/1.706 ms
+
+     Cincinnati	Time: 3.3 seconds	Length: 16.7 MBytes	Throughput: 42.3 Mbits/sec	Jitter: 0.510 ms     rtt min/avg/max/mdev = 48.490/51.778/55.311/2.060 ms
+
+          Tulsa	Time: 4.5 seconds	Length: 4.76 MBytes	Throughput: 8.77 Mbits/sec	Jitter: 2.870 ms     rtt min/avg/max/mdev = 57.684/60.649/62.593/1.638 ms
+
+        SanFran	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.290 ms     rtt min/avg/max/mdev = 64.972/69.980/72.640/2.445 ms
+
+         Boston	Time: 4.5 seconds	Length: 5.26 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.558 ms     rtt min/avg/max/mdev = 89.560/90.892/93.241/1.090 ms
+
+           Reno	Time: 4.6 seconds	Length: 5.27 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.500 ms     rtt min/avg/max/mdev = 72.233/75.716/79.464/1.883 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.22 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.741 ms     rtt min/avg/max/mdev = 69.606/71.423/72.848/1.043 ms
+
+      Cleveland	Time: 4.6 seconds	Length: 5.30 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.938 ms     rtt min/avg/max/mdev = 73.633/76.487/79.546/1.933 ms
+
+         BtnRge	Time: 3.3 seconds	Length: 17.5 MBytes	Throughput: 44.3 Mbits/sec	Jitter: 0.599 ms     rtt min/avg/max/mdev = 50.040/53.788/63.349/3.911 ms
+
+       Portland	Time: 4.5 seconds	Length: 4.57 MBytes	Throughput: 8.49 Mbits/sec	Jitter: 2.960 ms     rtt min/avg/max/mdev = 64.294/66.156/69.258/1.609 ms
+
+        Seattle	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 2.799 ms     rtt min/avg/max/mdev = 59.311/61.657/63.706/1.478 ms
+Average Throughput: 23.8121621622 Mbits/sec
+Average Jitter: 1.63710810811 ms
+Average RTT: 60.4162162162 ms
+
+
+*** LosAngeles *** 15
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.3 seconds	Length: 7.37 MBytes	Throughput: 18.5 Mbits/sec	Jitter: 0.474 ms     rtt min/avg/max/mdev = 67.128/72.474/81.441/4.620 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.835 ms     rtt min/avg/max/mdev = 49.744/51.576/53.650/1.179 ms
+
+      Starlight	Time: 3.2 seconds	Length: 21.1 MBytes	Throughput: 54.7 Mbits/sec	Jitter: 0.522 ms     rtt min/avg/max/mdev = 53.713/56.669/61.430/2.145 ms
+
+        Chicago	Time: 3.3 seconds	Length: 22.3 MBytes	Throughput: 57.2 Mbits/sec	Jitter: 0.512 ms     rtt min/avg/max/mdev = 48.525/52.305/55.906/2.340 ms
+
+        NewYork	Time: 3.4 seconds	Length: 6.40 MBytes	Throughput: 16.0 Mbits/sec	Jitter: 0.637 ms     rtt min/avg/max/mdev = 76.597/84.030/116.505/11.029 ms
+
+     Louisville	Time: 4.5 seconds	Length: 5.15 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.238 ms     rtt min/avg/max/mdev = 59.005/61.541/65.556/2.013 ms
+
+           Jxnv	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.68 Mbits/sec	Jitter: 2.008 ms     rtt min/avg/max/mdev = 59.394/61.478/63.662/1.493 ms
+
+     Pittsburgh	Time: 4.6 seconds	Length: 5.27 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.807 ms     rtt min/avg/max/mdev = 78.805/81.671/83.847/1.430 ms
+
+         Dallas	Time: 3.3 seconds	Length: 24.0 MBytes	Throughput: 61.7 Mbits/sec	Jitter: 1.884 ms     rtt min/avg/max/mdev = 50.631/52.953/56.353/1.911 ms
+
+        Ashburn	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.67 Mbits/sec	Jitter: 1.602 ms     rtt min/avg/max/mdev = 69.657/71.598/74.587/1.276 ms
+
+       Hartford	Time: 3.3 seconds	Length: 5.94 MBytes	Throughput: 14.9 Mbits/sec	Jitter: 0.453 ms     rtt min/avg/max/mdev = 79.505/83.607/101.748/6.119 ms
+
+       LasVegas	Time: 3.3 seconds	Length: 20.6 MBytes	Throughput: 51.9 Mbits/sec	Jitter: 0.860 ms     rtt min/avg/max/mdev = 43.917/47.570/53.492/3.032 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.249 ms     rtt min/avg/max/mdev = 58.491/60.951/63.608/1.422 ms
+
+          Phili	Time: 4.6 seconds	Length: 5.26 MBytes	Throughput: 9.67 Mbits/sec	Jitter: 2.062 ms     rtt min/avg/max/mdev = 75.561/80.628/84.774/2.546 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.502 ms     rtt min/avg/max/mdev = 74.477/76.597/78.166/1.203 ms
+
+
+      Charlotte	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.65 Mbits/sec	Jitter: 2.076 ms     rtt min/avg/max/mdev = 59.740/61.765/64.459/1.810 ms
+
+           KanC	Time: 3.3 seconds	Length: 17.3 MBytes	Throughput: 43.6 Mbits/sec	Jitter: 0.631 ms     rtt min/avg/max/mdev = 42.864/47.018/51.049/2.506 ms
+
+        Detroit	Time: 3.3 seconds	Length: 23.7 MBytes	Throughput: 60.6 Mbits/sec	Jitter: 0.367 ms     rtt min/avg/max/mdev = 53.856/57.789/64.502/3.136 ms
+
+       Missoula	Time: 3.2 seconds	Length: 21.4 MBytes	Throughput: 55.7 Mbits/sec	Jitter: 0.595 ms     rtt min/avg/max/mdev = 39.865/42.745/55.169/4.279 ms
+
+            Ind	Time: 3.4 seconds	Length: 9.02 MBytes	Throughput: 22.6 Mbits/sec	Jitter: 0.317 ms     rtt min/avg/max/mdev = 55.510/58.370/70.131/4.100 ms
+
+         Tucson	Time: 3.3 seconds	Length: 15.1 MBytes	Throughput: 37.9 Mbits/sec	Jitter: 0.281 ms     rtt min/avg/max/mdev = 49.064/52.824/64.019/3.972 ms
+
+        Phoenix	Time: 3.2 seconds	Length: 22.2 MBytes	Throughput: 57.4 Mbits/sec	Jitter: 0.378 ms     rtt min/avg/max/mdev = 25.519/27.667/32.510/1.926 ms
+
+        Raleigh	Time: 4.5 seconds	Length: 4.38 MBytes	Throughput: 8.13 Mbits/sec	Jitter: 1.443 ms     rtt min/avg/max/mdev = 63.572/66.252/68.427/1.605 ms
+
+        Buffalo	Time: 3.3 seconds	Length: 10.9 MBytes	Throughput: 27.3 Mbits/sec	Jitter: 0.230 ms     rtt min/avg/max/mdev = 63.340/66.850/83.085/5.596 ms
+
+        Atlanta	Time: 4.5 seconds	Length: 5.13 MBytes	Throughput: 9.63 Mbits/sec	Jitter: 1.313 ms     rtt min/avg/max/mdev = 54.020/56.713/59.411/1.477 ms
+
+            SLC	Time: 3.2 seconds	Length: 22.6 MBytes	Throughput: 58.7 Mbits/sec	Jitter: 0.342 ms     rtt min/avg/max/mdev = 38.466/43.636/51.531/3.702 ms
+
+        Houston	Time: 3.3 seconds	Length: 16.5 MBytes	Throughput: 41.6 Mbits/sec	Jitter: 0.536 ms     rtt min/avg/max/mdev = 43.267/47.932/58.480/3.904 ms
+
+     Cincinnati	Time: 4.6 seconds	Length: 4.85 MBytes	Throughput: 8.94 Mbits/sec	Jitter: 2.406 ms     rtt min/avg/max/mdev = 63.802/66.144/67.674/1.209 ms
+
+          Tulsa	Time: 3.3 seconds	Length: 14.8 MBytes	Throughput: 37.9 Mbits/sec	Jitter: 0.288 ms     rtt min/avg/max/mdev = 52.448/55.640/61.892/2.768 ms
+
+        SanFran	Time: 3.2 seconds	Length: 22.8 MBytes	Throughput: 59.0 Mbits/sec	Jitter: 0.132 ms     rtt min/avg/max/mdev = 25.938/27.484/30.358/1.202 ms
+
+         Boston	Time: 3.4 seconds	Length: 4.78 MBytes	Throughput: 11.8 Mbits/sec	Jitter: 0.500 ms     rtt min/avg/max/mdev = 70.227/75.594/80.142/2.594 ms
+
+           Reno	Time: 3.3 seconds	Length: 21.2 MBytes	Throughput: 54.3 Mbits/sec	Jitter: 0.688 ms     rtt min/avg/max/mdev = 30.315/32.547/35.328/1.802 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 12.2 MBytes	Throughput: 30.9 Mbits/sec	Jitter: 0.499 ms     rtt min/avg/max/mdev = 44.021/48.096/54.422/3.103 ms
+
+      Cleveland	Time: 3.3 seconds	Length: 10.4 MBytes	Throughput: 26.4 Mbits/sec	Jitter: 0.528 ms     rtt min/avg/max/mdev = 58.433/62.074/69.848/3.343 ms
+
+         BtnRge	Time: 4.5 seconds	Length: 4.66 MBytes	Throughput: 8.62 Mbits/sec	Jitter: 1.927 ms     rtt min/avg/max/mdev = 62.002/66.205/70.193/2.104 ms
+
+       Portland	Time: 3.3 seconds	Length: 23.2 MBytes	Throughput: 59.6 Mbits/sec	Jitter: 0.195 ms     rtt min/avg/max/mdev = 29.817/32.799/42.300/3.426 ms
+
+        Seattle	Time: 3.3 seconds	Length: 21.4 MBytes	Throughput: 54.8 Mbits/sec	Jitter: 0.505 ms     rtt min/avg/max/mdev = 35.038/38.212/46.004/3.114 ms
+Average Throughput: 30.7437837838 Mbits/sec
+Average Jitter: 0.968162162162 ms
+Average RTT: 57.5632432432 ms
+
+
+*** Charlotte *** 16
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 4.6 seconds	Length: 5.29 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.469 ms     rtt min/avg/max/mdev = 66.919/70.967/73.694/2.051 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.238 ms     rtt min/avg/max/mdev = 31.158/31.904/33.403/0.688 ms
+
+      Starlight	Time: 4.6 seconds	Length: 4.84 MBytes	Throughput: 8.87 Mbits/sec	Jitter: 2.969 ms     rtt min/avg/max/mdev = 53.952/56.712/59.539/1.888 ms
+
+        Chicago	Time: 4.5 seconds	Length: 5.23 MBytes	Throughput: 9.74 Mbits/sec	Jitter: 1.839 ms     rtt min/avg/max/mdev = 48.991/51.898/54.291/1.342 ms
+
+        NewYork	Time: 4.6 seconds	Length: 5.30 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.107 ms     rtt min/avg/max/mdev = 75.984/80.925/85.613/2.529 ms
+
+     Louisville	Time: 3.2 seconds	Length: 22.6 MBytes	Throughput: 59.2 Mbits/sec	Jitter: 0.212 ms     rtt min/avg/max/mdev = 31.029/32.670/34.783/1.246 ms
+
+           Jxnv	Time: 3.3 seconds	Length: 21.6 MBytes	Throughput: 55.1 Mbits/sec	Jitter: 0.459 ms     rtt min/avg/max/mdev = 30.520/34.520/43.485/3.486 ms
+
+     Pittsburgh	Time: 3.3 seconds	Length: 22.3 MBytes	Throughput: 56.3 Mbits/sec	Jitter: 0.635 ms     rtt min/avg/max/mdev = 39.513/42.425/49.620/2.640 ms
+
+         Dallas	Time: 4.5 seconds	Length: 4.71 MBytes	Throughput: 8.74 Mbits/sec	Jitter: 4.897 ms     rtt min/avg/max/mdev = 40.317/42.156/45.944/1.462 ms
+
+        Ashburn	Time: 3.3 seconds	Length: 22.1 MBytes	Throughput: 56.7 Mbits/sec	Jitter: 0.441 ms     rtt min/avg/max/mdev = 29.727/31.570/33.523/1.232 ms
+
+       Hartford	Time: 4.6 seconds	Length: 5.35 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.580 ms     rtt min/avg/max/mdev = 76.990/81.878/84.636/2.176 ms
+
+       LasVegas	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.727 ms     rtt min/avg/max/mdev = 43.760/46.620/49.217/1.848 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.481 ms     rtt min/avg/max/mdev = 29.731/32.092/34.689/1.454 ms
+
+          Phili	Time: 3.4 seconds	Length: 9.97 MBytes	Throughput: 24.6 Mbits/sec	Jitter: 0.436 ms     rtt min/avg/max/mdev = 39.764/45.825/58.065/5.661 ms
+
+         McLean	Time: 3.2 seconds	Length: 24.0 MBytes	Throughput: 63.1 Mbits/sec	Jitter: 0.372 ms     rtt min/avg/max/mdev = 34.577/38.226/43.288/2.427 ms
+
+     LosAngeles	Time: 4.6 seconds	Length: 4.20 MBytes	Throughput: 7.67 Mbits/sec	Jitter: 2.210 ms     rtt min/avg/max/mdev = 58.716/61.877/66.090/2.263 ms
+
+
+           KanC	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.990 ms     rtt min/avg/max/mdev = 44.661/46.953/48.908/1.379 ms
+
+        Detroit	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.497 ms     rtt min/avg/max/mdev = 52.934/55.499/59.945/2.299 ms
+
+       Missoula	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.74 Mbits/sec	Jitter: 1.456 ms     rtt min/avg/max/mdev = 50.217/51.926/54.334/1.273 ms
+
+            Ind	Time: 4.5 seconds	Length: 5.20 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 1.668 ms     rtt min/avg/max/mdev = 54.742/56.408/57.850/1.146 ms
+
+         Tucson	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.805 ms     rtt min/avg/max/mdev = 39.216/41.041/43.604/1.441 ms
+
+        Phoenix	Time: 4.6 seconds	Length: 5.30 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 2.691 ms     rtt min/avg/max/mdev = 62.388/65.297/67.218/1.366 ms
+
+        Raleigh	Time: 3.2 seconds	Length: 23.5 MBytes	Throughput: 61.7 Mbits/sec	Jitter: 0.247 ms     rtt min/avg/max/mdev = 25.842/27.515/31.046/1.827 ms
+
+        Buffalo	Time: 4.6 seconds	Length: 3.96 MBytes	Throughput: 7.26 Mbits/sec	Jitter: 2.940 ms     rtt min/avg/max/mdev = 62.175/66.248/67.973/1.709 ms
+
+        Atlanta	Time: 3.2 seconds	Length: 24.0 MBytes	Throughput: 62.7 Mbits/sec	Jitter: 0.315 ms     rtt min/avg/max/mdev = 25.212/26.958/29.862/1.311 ms
+
+            SLC	Time: 4.5 seconds	Length: 4.48 MBytes	Throughput: 8.28 Mbits/sec	Jitter: 2.768 ms     rtt min/avg/max/mdev = 40.513/41.288/42.644/0.614 ms
+
+        Houston	Time: 4.5 seconds	Length: 5.15 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.369 ms     rtt min/avg/max/mdev = 36.364/37.532/38.557/0.737 ms
+
+     Cincinnati	Time: 3.2 seconds	Length: 23.1 MBytes	Throughput: 60.5 Mbits/sec	Jitter: 0.487 ms     rtt min/avg/max/mdev = 36.305/38.077/43.175/1.942 ms
+
+          Tulsa	Time: 4.6 seconds	Length: 4.71 MBytes	Throughput: 8.66 Mbits/sec	Jitter: 1.670 ms     rtt min/avg/max/mdev = 44.112/45.582/48.801/1.436 ms
+
+        SanFran	Time: 4.5 seconds	Length: 5.15 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 3.458 ms     rtt min/avg/max/mdev = 54.030/56.326/58.225/1.641 ms
+
+         Boston	Time: 4.6 seconds	Length: 5.32 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.400 ms     rtt min/avg/max/mdev = 73.707/76.432/79.341/1.577 ms
+
+           Reno	Time: 4.6 seconds	Length: 5.29 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.612 ms     rtt min/avg/max/mdev = 59.328/62.183/63.871/1.255 ms
+
+         Mpolis	Time: 4.5 seconds	Length: 5.25 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.538 ms     rtt min/avg/max/mdev = 54.106/56.859/58.897/1.308 ms
+
+      Cleveland	Time: 4.6 seconds	Length: 5.28 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 2.216 ms     rtt min/avg/max/mdev = 58.530/61.247/63.756/2.040 ms
+
+         BtnRge	Time: 3.3 seconds	Length: 21.9 MBytes	Throughput: 56.0 Mbits/sec	Jitter: 0.503 ms     rtt min/avg/max/mdev = 35.696/38.801/51.134/4.343 ms
+
+       Portland	Time: 4.5 seconds	Length: 4.45 MBytes	Throughput: 8.23 Mbits/sec	Jitter: 2.393 ms     rtt min/avg/max/mdev = 48.509/50.877/53.746/1.581 ms
+
+        Seattle	Time: 4.5 seconds	Length: 5.24 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.929 ms     rtt min/avg/max/mdev = 44.893/46.821/48.453/0.997 ms
+Average Throughput: 21.8321621622 Mbits/sec
+Average Jitter: 1.6492972973 ms
+Average RTT: 49.5124324324 ms
+
+
+*** KanC *** 17
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.3 seconds	Length: 12.3 MBytes	Throughput: 31.0 Mbits/sec	Jitter: 0.440 ms     rtt min/avg/max/mdev = 46.325/49.955/65.633/5.394 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.521 ms     rtt min/avg/max/mdev = 34.609/36.959/39.293/1.291 ms
+
+      Starlight	Time: 3.4 seconds	Length: 16.0 MBytes	Throughput: 40.1 Mbits/sec	Jitter: 0.482 ms     rtt min/avg/max/mdev = 31.039/32.707/39.325/2.399 ms
+
+        Chicago	Time: 3.3 seconds	Length: 22.9 MBytes	Throughput: 58.5 Mbits/sec	Jitter: 0.518 ms     rtt min/avg/max/mdev = 25.443/26.777/28.500/0.910 ms
+
+        NewYork	Time: 3.4 seconds	Length: 7.11 MBytes	Throughput: 17.5 Mbits/sec	Jitter: 0.367 ms     rtt min/avg/max/mdev = 53.911/59.688/79.200/6.977 ms
+
+     Louisville	Time: 4.5 seconds	Length: 4.73 MBytes	Throughput: 8.84 Mbits/sec	Jitter: 1.858 ms     rtt min/avg/max/mdev = 44.755/46.685/49.341/1.334 ms
+
+           Jxnv	Time: 4.5 seconds	Length: 5.15 MBytes	Throughput: 9.69 Mbits/sec	Jitter: 2.142 ms     rtt min/avg/max/mdev = 44.463/47.079/49.831/1.425 ms
+
+     Pittsburgh	Time: 4.6 seconds	Length: 5.27 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.998 ms     rtt min/avg/max/mdev = 63.569/65.517/67.985/1.340 ms
+
+         Dallas	Time: 3.3 seconds	Length: 19.6 MBytes	Throughput: 49.9 Mbits/sec	Jitter: 0.298 ms     rtt min/avg/max/mdev = 35.518/40.463/47.345/4.519 ms
+
+        Ashburn	Time: 4.5 seconds	Length: 4.53 MBytes	Throughput: 8.37 Mbits/sec	Jitter: 1.942 ms     rtt min/avg/max/mdev = 54.817/56.865/59.576/1.523 ms
+
+       Hartford	Time: 3.4 seconds	Length: 6.24 MBytes	Throughput: 15.3 Mbits/sec	Jitter: 0.254 ms     rtt min/avg/max/mdev = 52.776/57.887/80.464/7.780 ms
+
+       LasVegas	Time: 3.3 seconds	Length: 15.4 MBytes	Throughput: 38.7 Mbits/sec	Jitter: 0.419 ms     rtt min/avg/max/mdev = 30.626/33.003/37.085/2.109 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.65 Mbits/sec	Jitter: 2.209 ms     rtt min/avg/max/mdev = 44.631/46.475/48.998/1.470 ms
+
+          Phili	Time: 4.5 seconds	Length: 5.16 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.527 ms     rtt min/avg/max/mdev = 63.516/66.025/68.012/1.663 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 2.828 ms     rtt min/avg/max/mdev = 57.812/61.556/64.206/1.704 ms
+
+     LosAngeles	Time: 3.4 seconds	Length: 10.2 MBytes	Throughput: 25.4 Mbits/sec	Jitter: 0.485 ms     rtt min/avg/max/mdev = 44.094/48.707/67.822/6.763 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.13 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.641 ms     rtt min/avg/max/mdev = 44.080/46.171/49.220/1.670 ms
+
+
+        Detroit	Time: 3.3 seconds	Length: 14.2 MBytes	Throughput: 36.2 Mbits/sec	Jitter: 0.561 ms     rtt min/avg/max/mdev = 29.185/32.853/39.301/2.973 ms
+
+       Missoula	Time: 3.3 seconds	Length: 12.1 MBytes	Throughput: 30.6 Mbits/sec	Jitter: 0.566 ms     rtt min/avg/max/mdev = 34.484/37.622/40.313/1.981 ms
+
+            Ind	Time: 3.3 seconds	Length: 15.8 MBytes	Throughput: 39.7 Mbits/sec	Jitter: 0.667 ms     rtt min/avg/max/mdev = 30.402/32.604/38.818/2.705 ms
+
+         Tucson	Time: 3.3 seconds	Length: 14.3 MBytes	Throughput: 36.7 Mbits/sec	Jitter: 0.368 ms     rtt min/avg/max/mdev = 35.219/38.343/47.614/3.732 ms
+
+        Phoenix	Time: 3.3 seconds	Length: 11.6 MBytes	Throughput: 29.1 Mbits/sec	Jitter: 0.376 ms     rtt min/avg/max/mdev = 48.150/53.680/72.297/6.825 ms
+
+        Raleigh	Time: 4.5 seconds	Length: 4.80 MBytes	Throughput: 8.97 Mbits/sec	Jitter: 2.034 ms     rtt min/avg/max/mdev = 50.519/51.563/53.305/0.888 ms
+
+        Buffalo	Time: 3.3 seconds	Length: 7.89 MBytes	Throughput: 19.8 Mbits/sec	Jitter: 0.376 ms     rtt min/avg/max/mdev = 39.350/43.286/51.421/3.529 ms
+
+        Atlanta	Time: 4.5 seconds	Length: 5.15 MBytes	Throughput: 9.57 Mbits/sec	Jitter: 1.907 ms     rtt min/avg/max/mdev = 40.772/42.005/43.999/0.941 ms
+
+            SLC	Time: 3.3 seconds	Length: 22.5 MBytes	Throughput: 57.8 Mbits/sec	Jitter: 0.408 ms     rtt min/avg/max/mdev = 25.490/28.534/37.388/3.467 ms
+
+        Houston	Time: 3.3 seconds	Length: 21.1 MBytes	Throughput: 53.5 Mbits/sec	Jitter: 1.263 ms     rtt min/avg/max/mdev = 30.010/32.403/35.981/1.785 ms
+
+     Cincinnati	Time: 4.5 seconds	Length: 4.74 MBytes	Throughput: 8.83 Mbits/sec	Jitter: 2.351 ms     rtt min/avg/max/mdev = 48.997/52.164/53.919/1.484 ms
+
+          Tulsa	Time: 3.4 seconds	Length: 21.0 MBytes	Throughput: 52.4 Mbits/sec	Jitter: 0.414 ms     rtt min/avg/max/mdev = 39.257/41.366/45.779/1.779 ms
+
+        SanFran	Time: 3.4 seconds	Length: 12.5 MBytes	Throughput: 31.0 Mbits/sec	Jitter: 0.563 ms     rtt min/avg/max/mdev = 39.508/43.188/55.281/4.625 ms
+
+         Boston	Time: 3.4 seconds	Length: 7.66 MBytes	Throughput: 19.2 Mbits/sec	Jitter: 0.411 ms     rtt min/avg/max/mdev = 48.479/53.991/79.730/8.968 ms
+
+           Reno	Time: 3.4 seconds	Length: 8.92 MBytes	Throughput: 22.3 Mbits/sec	Jitter: 0.608 ms     rtt min/avg/max/mdev = 43.383/47.458/59.188/4.315 ms
+
+         Mpolis	Time: 3.3 seconds	Length: 22.1 MBytes	Throughput: 56.4 Mbits/sec	Jitter: 0.548 ms     rtt min/avg/max/mdev = 39.751/43.593/53.154/3.697 ms
+
+      Cleveland	Time: 3.3 seconds	Length: 23.3 MBytes	Throughput: 59.8 Mbits/sec	Jitter: 0.231 ms     rtt min/avg/max/mdev = 35.014/37.647/40.412/1.615 ms
+
+         BtnRge	Time: 4.5 seconds	Length: 4.45 MBytes	Throughput: 8.22 Mbits/sec	Jitter: 2.403 ms     rtt min/avg/max/mdev = 49.166/52.344/54.666/1.671 ms
+
+       Portland	Time: 3.3 seconds	Length: 14.7 MBytes	Throughput: 37.1 Mbits/sec	Jitter: 0.505 ms     rtt min/avg/max/mdev = 34.385/37.262/40.896/2.076 ms
+
+        Seattle	Time: 3.3 seconds	Length: 22.7 MBytes	Throughput: 57.9 Mbits/sec	Jitter: 2.163 ms     rtt min/avg/max/mdev = 30.637/33.209/36.527/1.571 ms
+Average Throughput: 28.0154054054 Mbits/sec
+Average Jitter: 1.07167567568 ms
+Average RTT: 44.7959459459 ms
+
+
+*** Detroit *** 18
+Testing udp throughput with 3 sec, max bandwidth 160KByte UDP buffer size iperf test 
+
+         Albany	Time: 3.3 seconds	Length: 11.9 MBytes	Throughput: 30.3 Mbits/sec	Jitter: 0.532 ms     rtt min/avg/max/mdev = 34.835/37.656/40.172/1.729 ms
+
+        Jackson	Time: 4.4 seconds	Length: 5.10 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.882 ms     rtt min/avg/max/mdev = 43.962/47.389/51.448/1.908 ms
+
+      Starlight	Time: 3.3 seconds	Length: 20.1 MBytes	Throughput: 51.1 Mbits/sec	Jitter: 0.302 ms     rtt min/avg/max/mdev = 30.393/31.844/35.749/1.529 ms
+
+        Chicago	Time: 3.3 seconds	Length: 22.5 MBytes	Throughput: 57.4 Mbits/sec	Jitter: 0.398 ms     rtt min/avg/max/mdev = 25.592/27.604/32.420/2.090 ms
+
+        NewYork	Time: 3.3 seconds	Length: 12.6 MBytes	Throughput: 31.9 Mbits/sec	Jitter: 0.262 ms     rtt min/avg/max/mdev = 45.012/49.217/55.489/3.276 ms
+
+     Louisville	Time: 4.5 seconds	Length: 5.15 MBytes	Throughput: 9.63 Mbits/sec	Jitter: 1.838 ms     rtt min/avg/max/mdev = 55.097/56.694/65.945/3.099 ms
+
+           Jxnv	Time: 4.4 seconds	Length: 5.11 MBytes	Throughput: 9.73 Mbits/sec	Jitter: 1.971 ms     rtt min/avg/max/mdev = 53.273/56.465/58.055/1.448 ms
+
+     Pittsburgh	Time: 4.5 seconds	Length: 5.24 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 2.157 ms     rtt min/avg/max/mdev = 73.388/75.857/78.084/1.770 ms
+
+         Dallas	Time: 3.2 seconds	Length: 23.7 MBytes	Throughput: 62.7 Mbits/sec	Jitter: 0.313 ms     rtt min/avg/max/mdev = 43.188/47.761/57.713/3.784 ms
+
+        Ashburn	Time: 4.6 seconds	Length: 4.32 MBytes	Throughput: 7.93 Mbits/sec	Jitter: 2.187 ms     rtt min/avg/max/mdev = 63.629/66.098/67.593/1.211 ms
+
+       Hartford	Time: 3.4 seconds	Length: 8.40 MBytes	Throughput: 20.7 Mbits/sec	Jitter: 0.487 ms     rtt min/avg/max/mdev = 42.730/48.319/61.428/4.840 ms
+
+       LasVegas	Time: 3.3 seconds	Length: 11.4 MBytes	Throughput: 28.8 Mbits/sec	Jitter: 0.724 ms     rtt min/avg/max/mdev = 39.449/43.265/63.368/6.777 ms
+
+        Memphis	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.948 ms     rtt min/avg/max/mdev = 54.516/56.322/57.713/0.864 ms
+
+          Phili	Time: 4.5 seconds	Length: 5.17 MBytes	Throughput: 9.70 Mbits/sec	Jitter: 1.304 ms     rtt min/avg/max/mdev = 73.963/76.245/81.173/1.987 ms
+
+         McLean	Time: 4.4 seconds	Length: 5.12 MBytes	Throughput: 9.72 Mbits/sec	Jitter: 1.413 ms     rtt min/avg/max/mdev = 68.959/70.550/72.672/1.116 ms
+
+     LosAngeles	Time: 3.3 seconds	Length: 12.0 MBytes	Throughput: 30.4 Mbits/sec	Jitter: 0.348 ms     rtt min/avg/max/mdev = 52.851/57.704/65.407/3.566 ms
+
+      Charlotte	Time: 4.4 seconds	Length: 5.09 MBytes	Throughput: 9.71 Mbits/sec	Jitter: 1.132 ms     rtt min/avg/max/mdev = 55.074/56.416/57.511/0.755 ms
+
+           KanC	Time: 3.3 seconds	Length: 25.1 MBytes	Throughput: 63.9 Mbits/sec	Jitter: 0.846 ms     rtt min/avg/max/mdev = 29.562/31.879/35.178/1.604 ms
+
+
+       Missoula	Time: 3.3 seconds	Length: 18.9 MBytes	Throughput: 48.8 Mbits/sec	Jitter: 0.238 ms     rtt min/avg/max/mdev = 43.675/46.062/48.424/1.361 ms
+
+            Ind	Time: 3.2 seconds	Length: 24.4 MBytes	Throughput: 63.4 Mbits/sec	Jitter: 0.529 ms     rtt min/avg/max/mdev = 29.450/32.457/37.810/2.360 ms
+
+         Tucson	Time: 3.3 seconds	Length: 16.2 MBytes	Throughput: 41.3 Mbits/sec	Jitter: 1.252 ms     rtt min/avg/max/mdev = 43.177/46.056/49.765/1.790 ms
+
+        Phoenix	Time: 3.5 seconds	Length: 8.19 MBytes	Throughput: 19.6 Mbits/sec	Jitter: ms 18661/24505     rtt min/avg/max/mdev = 57.244/62.120/69.517/3.410 ms
